@@ -30,7 +30,7 @@ jupyter lab --port 7766
 
 # Content 
 
-1. [x] Basic Audio Processing and Self Supervised Representations
+1. [] Basic Audio Processing and Self Supervised Representations
     1. [] Digital wave representation. Waveform and Spectral Domains
         - Author: 
         - Recording: 
