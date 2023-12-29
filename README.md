@@ -1,4 +1,4 @@
-# UKU Audio Processing Course
+# UCU Audio Processing Course
 
 # Setup Working Environment  
 
@@ -105,12 +105,12 @@ TODO
 # Citation
 
 ```
-@misc{uku_audio_processing_course_2024,
-  author = {Sydorskyi Volodymyr, Bazdyrev Anton},
-  title = {UKU Audio Processing Course 2024},
+@misc{ucu_audio_processing_course_2024,
+  author = {Sydorskyi Volodymyr, Bazdyrev Anton, Oles Dobosevych},
+  title = {UCU Audio Processing Course 2024},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/VSydorskyy/uku_audio_processing_course}},
+  howpublished = {\url{https://github.com/VSydorskyy/ucu_audio_processing_course}},
 }
 ```

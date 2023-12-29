@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "uku-audio-processing-course"
+name = "ucu-audio-processing-course"
 version = "0.1.0"
 description = ""
-authors = ["VSydorskyy <vladimirsydorskyy@gmail.com>", "AntonBazdyrev", ]
+authors = ["VSydorskyy <vladimirsydorskyy@gmail.com>", "AntonBazdyrev", "Oles Dobosevych"]
 readme = "README.md"
-packages = [{include = "uku_audio_processing_course"}]
+packages = [{include = "ucu_audio_processing_course"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
