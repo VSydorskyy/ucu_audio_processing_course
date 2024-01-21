@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*.egg-info
+*__pycache__*
+
+data/*
+!data/interesting_audio_samples
