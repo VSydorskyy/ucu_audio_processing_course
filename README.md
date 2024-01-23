@@ -5,7 +5,7 @@
 ## Pre-requirements 
 
 - [Poetry 1.5.1](https://python-poetry.org/docs/#installation).
-- VS Code — [Ubuntu Installation](https://code.visualstudio.com/docs/setup/linux).
+- VS Code — [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [macOS](https://code.visualstudio.com/docs/setup/mac) and [Windows](https://code.visualstudio.com/docs/setup/windows) installation guides.
 - (Optional) CUDA Version: 11.4; Driver Version: 470.129.06 — [Installation](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html).
 
 ## Setup environment 
