@@ -34,7 +34,7 @@ jupyter lab --port 7766
 # Content 
 
 1. [] Intro in Audio ML. Basic Audio Processing. Self Supervised Representations
-    1. [] Intro in Audio ML. Digital wave representation. Spectral audio representation
+    1. [x] Intro in Audio ML. Digital wave representation. Spectral audio representation
         - Author: Volodymyr, Andrii
         - Recording: 
     2. [] Pre-processing, Filtering, Clustering
