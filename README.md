@@ -35,7 +35,7 @@ jupyter lab --port 7766
 
 1. [] Intro in Audio ML. Basic Audio Processing. Self Supervised Representations
     1. [] Intro in Audio ML. Digital wave representation. Spectral audio representation
-        - Author: Volodymyr
+        - Author: Volodymyr, Andrii
         - Recording: 
     2. [] Pre-processing, Filtering, Clustering
         - Author: 
@@ -109,7 +109,7 @@ TODO
 
 ```
 @misc{ucu_audio_processing_course_2024,
-  author = {Sydorskyi Volodymyr, Bazdyrev Anton, Oles Dobosevych},
+  author = {Sydorskyi Volodymyr, Bazdyrev Anton, Oles Dobosevych, Andrii Shevtsov},
   title = {UCU Audio Processing Course 2024},
   year = {2024},
   publisher = {GitHub},
