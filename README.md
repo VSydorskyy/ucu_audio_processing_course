@@ -33,7 +33,7 @@ jupyter lab --port 7766
 
 # Content 
 
-1. [] Intro in Audio ML. Basic Audio Processing. Self Supervised Representations
+1. [x] Intro in Audio ML. Basic Audio Processing. Self Supervised Representations
     1. [x] Intro in Audio ML. Digital wave representation. Spectral audio representation
         - Author: Volodymyr, Andrii
         - Recording: 
@@ -41,8 +41,8 @@ jupyter lab --port 7766
         - Author: Oles, Andrii
         - Colab: https://colab.research.google.com/drive/1PaM4K2eJoqeC8s0JLiiJ7RrDFI56rSxn?usp=sharing
         - Recording:
-    3. [] Self Supervised Representations
-        - Author: 
+    3. [x] Self Supervised Representations
+        - Author: Volodymyr, Andrii
         - Recording:
 2. [] Audio Classification and Detection. Validation
     1. [] Basic Audio Classification model
