@@ -2439,6 +2439,23 @@ extra = ["lxml (>=4.6)", "pydot (>=1.4.2)", "pygraphviz (>=1.11)", "sympy (>=1.1
 test = ["pytest (>=7.2)", "pytest-cov (>=4.0)"]
 
 [[package]]
+name = "nnaudio"
+version = "0.3.2"
+description = "A fast GPU audio processing toolbox with 1D convolutional neural network"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "nnAudio-0.3.2-py3-none-any.whl", hash = "sha256:a2ea9a71196fceb19d8299461bf3740a626daa0af6dc45cf5496c235829199d9"},
+    {file = "nnAudio-0.3.2.tar.gz", hash = "sha256:1c3b6aa5f79b5afa054f98ce4add579d2ec4ffd7ffa4b8e190c96fd502e91653"},
+]
+
+[package.dependencies]
+scipy = "*"
+
+[package.extras]
+tests = ["librosa", "pytest"]
+
+[[package]]
 name = "notebook-shim"
 version = "0.2.3"
 description = "A shim layer for notebook traits and config"
@@ -5382,4 +5399,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "b242c8bb5abe4f8f74c164c1797d3bf7c471e78570320f56d59e47a83090a3e2"
+content-hash = "73cd87cec8e67a0c85cf4fc9fc5349cb3fd16b8d77dea870e7fdb1553f141ff6"
