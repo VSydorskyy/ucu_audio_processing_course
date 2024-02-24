@@ -111,6 +111,29 @@ files = [
 frozenlist = ">=1.1.0"
 
 [[package]]
+name = "albumentations"
+version = "1.4.0"
+description = "Fast image augmentation library and easy to use wrapper around other libraries"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "albumentations-1.4.0-py3-none-any.whl", hash = "sha256:129656a0abdf4bf5c62abf4c297ee251c0d933d7b7509762386a729d2991857d"},
+    {file = "albumentations-1.4.0.tar.gz", hash = "sha256:649f8a14896f788b356ecc70083c4fb91bedab4ff4e2b39ad217a824e189ded0"},
+]
+
+[package.dependencies]
+numpy = ">=1.24.4"
+opencv-python = ">=4.9.0"
+PyYAML = "*"
+qudida = ">=0.0.4"
+scikit-image = ">=0.21.0"
+scipy = ">=1.10.0"
+
+[package.extras]
+develop = ["pytest"]
+tests = ["pytest"]
+
+[[package]]
 name = "alembic"
 version = "1.13.1"
 description = "A database migration tool for SQLAlchemy."
@@ -1134,6 +1157,43 @@ docs = ["Sphinx", "furo"]
 test = ["objgraph", "psutil"]
 
 [[package]]
+name = "h5py"
+version = "3.10.0"
+description = "Read and write HDF5 files from Python"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "h5py-3.10.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:b963fb772964fc1d1563c57e4e2e874022ce11f75ddc6df1a626f42bd49ab99f"},
+    {file = "h5py-3.10.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:012ab448590e3c4f5a8dd0f3533255bc57f80629bf7c5054cf4c87b30085063c"},
+    {file = "h5py-3.10.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:781a24263c1270a62cd67be59f293e62b76acfcc207afa6384961762bb88ea03"},
+    {file = "h5py-3.10.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:f42e6c30698b520f0295d70157c4e202a9e402406f50dc08f5a7bc416b24e52d"},
+    {file = "h5py-3.10.0-cp310-cp310-win_amd64.whl", hash = "sha256:93dd840bd675787fc0b016f7a05fc6efe37312a08849d9dd4053fd0377b1357f"},
+    {file = "h5py-3.10.0-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:2381e98af081b6df7f6db300cd88f88e740649d77736e4b53db522d8874bf2dc"},
+    {file = "h5py-3.10.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:667fe23ab33d5a8a6b77970b229e14ae3bb84e4ea3382cc08567a02e1499eedd"},
+    {file = "h5py-3.10.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:90286b79abd085e4e65e07c1bd7ee65a0f15818ea107f44b175d2dfe1a4674b7"},
+    {file = "h5py-3.10.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:6c013d2e79c00f28ffd0cc24e68665ea03ae9069e167087b2adb5727d2736a52"},
+    {file = "h5py-3.10.0-cp311-cp311-win_amd64.whl", hash = "sha256:92273ce69ae4983dadb898fd4d3bea5eb90820df953b401282ee69ad648df684"},
+    {file = "h5py-3.10.0-cp312-cp312-macosx_10_9_x86_64.whl", hash = "sha256:3c97d03f87f215e7759a354460fb4b0d0f27001450b18b23e556e7856a0b21c3"},
+    {file = "h5py-3.10.0-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:86df4c2de68257b8539a18646ceccdcf2c1ce6b1768ada16c8dcfb489eafae20"},
+    {file = "h5py-3.10.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ba9ab36be991119a3ff32d0c7cbe5faf9b8d2375b5278b2aea64effbeba66039"},
+    {file = "h5py-3.10.0-cp312-cp312-win_amd64.whl", hash = "sha256:2c8e4fda19eb769e9a678592e67eaec3a2f069f7570c82d2da909c077aa94339"},
+    {file = "h5py-3.10.0-cp38-cp38-macosx_10_9_x86_64.whl", hash = "sha256:492305a074327e8d2513011fa9fffeb54ecb28a04ca4c4227d7e1e9616d35641"},
+    {file = "h5py-3.10.0-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:9450464b458cca2c86252b624279115dcaa7260a40d3cb1594bf2b410a2bd1a3"},
+    {file = "h5py-3.10.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:fd6f6d1384a9f491732cee233b99cd4bfd6e838a8815cc86722f9d2ee64032af"},
+    {file = "h5py-3.10.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3074ec45d3dc6e178c6f96834cf8108bf4a60ccb5ab044e16909580352010a97"},
+    {file = "h5py-3.10.0-cp38-cp38-win_amd64.whl", hash = "sha256:212bb997a91e6a895ce5e2f365ba764debeaef5d2dca5c6fb7098d66607adf99"},
+    {file = "h5py-3.10.0-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:5dfc65ac21fa2f630323c92453cadbe8d4f504726ec42f6a56cf80c2f90d6c52"},
+    {file = "h5py-3.10.0-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:d4682b94fd36ab217352be438abd44c8f357c5449b8995e63886b431d260f3d3"},
+    {file = "h5py-3.10.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:aece0e2e1ed2aab076c41802e50a0c3e5ef8816d60ece39107d68717d4559824"},
+    {file = "h5py-3.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:43a61b2c2ad65b1fabc28802d133eed34debcc2c8b420cb213d3d4ef4d3e2229"},
+    {file = "h5py-3.10.0-cp39-cp39-win_amd64.whl", hash = "sha256:ae2f0201c950059676455daf92700eeb57dcf5caaf71b9e1328e6e6593601770"},
+    {file = "h5py-3.10.0.tar.gz", hash = "sha256:d93adc48ceeb33347eb24a634fb787efc7ae4644e6ea4ba733d099605045c049"},
+]
+
+[package.dependencies]
+numpy = ">=1.17.3"
+
+[[package]]
 name = "huggingface-hub"
 version = "0.20.2"
 description = "Client library to download and publish models, datasets and other repos on the huggingface.co hub"
@@ -1190,6 +1250,38 @@ files = [
     {file = "idna-3.6-py3-none-any.whl", hash = "sha256:c05567e9c24a6b9faaa835c4821bad0590fbb9d5779e7caa6e1cc4978e7eb24f"},
     {file = "idna-3.6.tar.gz", hash = "sha256:9ecdbbd083b06798ae1e86adcbfe8ab1479cf864e4ee30fe4e46a003d12491ca"},
 ]
+
+[[package]]
+name = "imageio"
+version = "2.34.0"
+description = "Library for reading and writing a wide range of image, video, scientific, and volumetric data formats."
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "imageio-2.34.0-py3-none-any.whl", hash = "sha256:08082bf47ccb54843d9c73fe9fc8f3a88c72452ab676b58aca74f36167e8ccba"},
+    {file = "imageio-2.34.0.tar.gz", hash = "sha256:ae9732e10acf807a22c389aef193f42215718e16bd06eed0c5bb57e1034a4d53"},
+]
+
+[package.dependencies]
+numpy = "*"
+pillow = ">=8.3.2"
+
+[package.extras]
+all-plugins = ["astropy", "av", "imageio-ffmpeg", "pillow-heif", "psutil", "tifffile"]
+all-plugins-pypy = ["av", "imageio-ffmpeg", "pillow-heif", "psutil", "tifffile"]
+build = ["wheel"]
+dev = ["black", "flake8", "fsspec[github]", "pytest", "pytest-cov"]
+docs = ["numpydoc", "pydata-sphinx-theme", "sphinx (<6)"]
+ffmpeg = ["imageio-ffmpeg", "psutil"]
+fits = ["astropy"]
+full = ["astropy", "av", "black", "flake8", "fsspec[github]", "gdal", "imageio-ffmpeg", "itk", "numpydoc", "pillow-heif", "psutil", "pydata-sphinx-theme", "pytest", "pytest-cov", "sphinx (<6)", "tifffile", "wheel"]
+gdal = ["gdal"]
+itk = ["itk"]
+linting = ["black", "flake8"]
+pillow-heif = ["pillow-heif"]
+pyav = ["av"]
+test = ["fsspec[github]", "pytest", "pytest-cov"]
+tifffile = ["tifffile"]
 
 [[package]]
 name = "ipykernel"
@@ -1821,13 +1913,13 @@ tests = ["matplotlib (>=3.3.0)", "packaging (>=20.0)", "pytest", "pytest-cov", "
 
 [[package]]
 name = "lightning"
-version = "2.2.0"
+version = "2.2.0.post0"
 description = "The Deep Learning framework to train, deploy, and ship AI products Lightning fast."
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "lightning-2.2.0-py3-none-any.whl", hash = "sha256:28faa168ac8b9ef17eff4dc23b741972b8d60bc8ba02313e29dff5319d4a0ef7"},
-    {file = "lightning-2.2.0.tar.gz", hash = "sha256:acf47bebc924f443f90a860b84a3f5566933a930adde42e3021abb5cf466c45f"},
+    {file = "lightning-2.2.0.post0-py3-none-any.whl", hash = "sha256:b33a3c6ada8494c5f6e27348515780e736a5f7ca954575eac187d174053cd071"},
+    {file = "lightning-2.2.0.post0.tar.gz", hash = "sha256:60d91d39f42dde49e411bbf3a243b3d89c58aa028e2476d5fd2b3894a97ea775"},
 ]
 
 [package.dependencies]
@@ -1860,16 +1952,16 @@ data-dev = ["Pillow (>=9.5.0)", "coverage (==7.3.1)", "filelock", "fsspec[http] 
 data-examples = ["Pillow (>=9.5.0)", "torchvision (>=0.15.2,<1.0)"]
 data-test = ["coverage (==7.3.1)", "polars", "pyarrow", "pytest (==7.4.0)", "pytest-cov (==4.1.0)", "pytest-random-order (==1.1.0)", "pytest-rerunfailures (==12.0)", "pytest-timeout (==2.1.0)", "viztracer"]
 dev = ["Jinja2 (<4.0)", "Pillow (>=9.5.0)", "PyYAML (<7.0)", "aiohttp (>=3.8.0,<4.0)", "arrow (>=1.2.0,<2.0)", "backoff (>=2.2.1,<3.0)", "beautifulsoup4 (>=4.8.0,<5.0)", "bitsandbytes (==0.41.0)", "click (<9.0)", "click (==8.1.7)", "cloudpickle (>=1.3,<3.0)", "coverage (==7.3.1)", "croniter (>=1.3.0,<1.5.0)", "dateutils (<1.0)", "deepdiff (>=5.7.0,<7.0)", "deepspeed (>=0.8.2,<=0.9.3)", "docker (>=5.0.0,<7.0)", "fastapi", "fastapi (>=0.92.0,<1.0)", "filelock", "fsspec[http] (>=2022.5.0,<2024.0)", "gym[classic-control] (>=0.17.0,<1.0)", "httpx (==0.25.0)", "hydra-core (>=1.0.5,<2.0)", "inquirer (>=2.10.0,<4.0)", "ipython[all] (<9.0)", "jsonargparse[signatures] (>=4.26.1,<5.0)", "lightning-api-access (>=0.0.3)", "lightning-cloud", "lightning-cloud (==0.5.64)", "lightning-fabric (>=1.9.0)", "lightning-utilities (>=0.8.0,<1.0)", "matplotlib (>3.1,<4.0)", "omegaconf (>=2.0.5,<3.0)", "onnx (>=0.14.0,<2.0)", "onnxruntime (>=0.15.0,<2.0)", "packaging", "pandas", "pandas (>1.0,<3.0)", "playwright (==1.38.0)", "polars", "psutil (<6.0)", "pyarrow", "pydantic (>=1.7.4)", "pympler", "pytest (==7.4.0)", "pytest-asyncio (==0.21.1)", "pytest-cov (==4.1.0)", "pytest-doctestplus (==1.0.0)", "pytest-random-order (==1.1.0)", "pytest-rerunfailures (==12.0)", "pytest-timeout (==2.1.0)", "pytest-xdist (==3.3.1)", "python-multipart (>=0.0.5,<1.0)", "pytorch-lightning (>=1.9.0)", "redis (>=4.0.1,<6.0)", "requests (<3.0)", "requests-mock (==1.11.0)", "rich (>=12.3.0,<14.0)", "s3fs (>=2022.5.0,<2024.0)", "scikit-learn (>0.22.1,<2.0)", "setuptools (<69.0)", "starlette", "tensorboard (>=2.9.1,<3.0)", "tensorboardX (>=2.2,<3.0)", "torch (>0.14.0,<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchmetrics (>=0.7.0,<2.0)", "torchvision (>=0.14.0,<1.0)", "torchvision (>=0.15.2,<1.0)", "traitlets (>=5.3.0,<6.0)", "trio (<0.22.0)", "typing-extensions (>=4.4.0,<5.0)", "urllib3 (<3.0)", "uvicorn", "uvicorn (<1.0)", "viztracer", "websocket-client (<2.0)", "websockets (<12.0)"]
-examples = ["Pillow (>=9.5.0)", "gym[classic-control] (>=0.17.0,<1.0)", "ipython[all] (<9.0)", "lightning-utilities (>=0.8.0,<1.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)", "torchvision (>=0.15.2,<1.0)"]
+examples = ["Pillow (>=9.5.0)", "gym[classic-control] (>=0.17.0,<1.0)", "ipython[all] (<9.0)", "lightning-utilities (>=0.8.0,<1.0)", "requests (<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)", "torchvision (>=0.15.2,<1.0)"]
 extra = ["Jinja2 (<4.0)", "PyYAML (<7.0)", "aiohttp (>=3.8.0,<4.0)", "arrow (>=1.2.0,<2.0)", "backoff (>=2.2.1,<3.0)", "beautifulsoup4 (>=4.8.0,<5.0)", "bitsandbytes (==0.41.0)", "click (<9.0)", "croniter (>=1.3.0,<1.5.0)", "dateutils (<1.0)", "deepdiff (>=5.7.0,<7.0)", "docker (>=5.0.0,<7.0)", "fastapi (>=0.92.0,<1.0)", "fsspec[http] (>=2022.5.0,<2024.0)", "hydra-core (>=1.0.5,<2.0)", "inquirer (>=2.10.0,<4.0)", "jsonargparse[signatures] (>=4.26.1,<5.0)", "lightning-api-access (>=0.0.3)", "lightning-cloud (==0.5.64)", "lightning-fabric (>=1.9.0)", "lightning-utilities (>=0.8.0,<1.0)", "matplotlib (>3.1,<4.0)", "omegaconf (>=2.0.5,<3.0)", "packaging", "psutil (<6.0)", "pydantic (>=1.7.4)", "python-multipart (>=0.0.5,<1.0)", "pytorch-lightning (>=1.9.0)", "redis (>=4.0.1,<6.0)", "requests (<3.0)", "rich (>=12.3.0,<14.0)", "s3fs (>=2022.5.0,<2024.0)", "starlette", "tensorboardX (>=2.2,<3.0)", "traitlets (>=5.3.0,<6.0)", "typing-extensions (>=4.4.0,<5.0)", "urllib3 (<3.0)", "uvicorn (<1.0)", "websocket-client (<2.0)", "websockets (<12.0)"]
 fabric-all = ["bitsandbytes (==0.41.0)", "deepspeed (>=0.8.2,<=0.9.3)", "lightning-utilities (>=0.8.0,<1.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)"]
 fabric-dev = ["bitsandbytes (==0.41.0)", "click (==8.1.7)", "coverage (==7.3.1)", "deepspeed (>=0.8.2,<=0.9.3)", "lightning-utilities (>=0.8.0,<1.0)", "pytest (==7.4.0)", "pytest-cov (==4.1.0)", "pytest-random-order (==1.1.0)", "pytest-rerunfailures (==12.0)", "pytest-timeout (==2.1.0)", "tensorboardX (>=2.2,<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchmetrics (>=0.7.0,<2.0)", "torchvision (>=0.14.0,<1.0)"]
 fabric-examples = ["lightning-utilities (>=0.8.0,<1.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)"]
 fabric-strategies = ["bitsandbytes (==0.41.0)", "deepspeed (>=0.8.2,<=0.9.3)"]
 fabric-test = ["click (==8.1.7)", "coverage (==7.3.1)", "pytest (==7.4.0)", "pytest-cov (==4.1.0)", "pytest-random-order (==1.1.0)", "pytest-rerunfailures (==12.0)", "pytest-timeout (==2.1.0)", "tensorboardX (>=2.2,<3.0)", "torchmetrics (>=0.7.0,<2.0)"]
-pytorch-all = ["bitsandbytes (==0.41.0)", "deepspeed (>=0.8.2,<=0.9.3)", "gym[classic-control] (>=0.17.0,<1.0)", "hydra-core (>=1.0.5,<2.0)", "ipython[all] (<9.0)", "jsonargparse[signatures] (>=4.26.1,<5.0)", "lightning-utilities (>=0.8.0,<1.0)", "matplotlib (>3.1,<4.0)", "omegaconf (>=2.0.5,<3.0)", "rich (>=12.3.0,<14.0)", "tensorboardX (>=2.2,<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)"]
-pytorch-dev = ["bitsandbytes (==0.41.0)", "cloudpickle (>=1.3,<3.0)", "coverage (==7.3.1)", "deepspeed (>=0.8.2,<=0.9.3)", "fastapi", "gym[classic-control] (>=0.17.0,<1.0)", "hydra-core (>=1.0.5,<2.0)", "ipython[all] (<9.0)", "jsonargparse[signatures] (>=4.26.1,<5.0)", "lightning-utilities (>=0.8.0,<1.0)", "matplotlib (>3.1,<4.0)", "omegaconf (>=2.0.5,<3.0)", "onnx (>=0.14.0,<2.0)", "onnxruntime (>=0.15.0,<2.0)", "pandas (>1.0,<3.0)", "psutil (<6.0)", "pytest (==7.4.0)", "pytest-cov (==4.1.0)", "pytest-random-order (==1.1.0)", "pytest-rerunfailures (==12.0)", "pytest-timeout (==2.1.0)", "rich (>=12.3.0,<14.0)", "scikit-learn (>0.22.1,<2.0)", "tensorboard (>=2.9.1,<3.0)", "tensorboardX (>=2.2,<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)", "uvicorn"]
-pytorch-examples = ["gym[classic-control] (>=0.17.0,<1.0)", "ipython[all] (<9.0)", "lightning-utilities (>=0.8.0,<1.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)"]
+pytorch-all = ["bitsandbytes (==0.41.0)", "deepspeed (>=0.8.2,<=0.9.3)", "gym[classic-control] (>=0.17.0,<1.0)", "hydra-core (>=1.0.5,<2.0)", "ipython[all] (<9.0)", "jsonargparse[signatures] (>=4.26.1,<5.0)", "lightning-utilities (>=0.8.0,<1.0)", "matplotlib (>3.1,<4.0)", "omegaconf (>=2.0.5,<3.0)", "requests (<3.0)", "rich (>=12.3.0,<14.0)", "tensorboardX (>=2.2,<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)"]
+pytorch-dev = ["bitsandbytes (==0.41.0)", "cloudpickle (>=1.3,<3.0)", "coverage (==7.3.1)", "deepspeed (>=0.8.2,<=0.9.3)", "fastapi", "gym[classic-control] (>=0.17.0,<1.0)", "hydra-core (>=1.0.5,<2.0)", "ipython[all] (<9.0)", "jsonargparse[signatures] (>=4.26.1,<5.0)", "lightning-utilities (>=0.8.0,<1.0)", "matplotlib (>3.1,<4.0)", "omegaconf (>=2.0.5,<3.0)", "onnx (>=0.14.0,<2.0)", "onnxruntime (>=0.15.0,<2.0)", "pandas (>1.0,<3.0)", "psutil (<6.0)", "pytest (==7.4.0)", "pytest-cov (==4.1.0)", "pytest-random-order (==1.1.0)", "pytest-rerunfailures (==12.0)", "pytest-timeout (==2.1.0)", "requests (<3.0)", "rich (>=12.3.0,<14.0)", "scikit-learn (>0.22.1,<2.0)", "tensorboard (>=2.9.1,<3.0)", "tensorboardX (>=2.2,<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)", "uvicorn"]
+pytorch-examples = ["gym[classic-control] (>=0.17.0,<1.0)", "ipython[all] (<9.0)", "lightning-utilities (>=0.8.0,<1.0)", "requests (<3.0)", "torchmetrics (>=0.10.0,<2.0)", "torchvision (>=0.14.0,<1.0)"]
 pytorch-extra = ["bitsandbytes (==0.41.0)", "hydra-core (>=1.0.5,<2.0)", "jsonargparse[signatures] (>=4.26.1,<5.0)", "matplotlib (>3.1,<4.0)", "omegaconf (>=2.0.5,<3.0)", "rich (>=12.3.0,<14.0)", "tensorboardX (>=2.2,<3.0)"]
 pytorch-strategies = ["deepspeed (>=0.8.2,<=0.9.3)"]
 pytorch-test = ["cloudpickle (>=1.3,<3.0)", "coverage (==7.3.1)", "fastapi", "onnx (>=0.14.0,<2.0)", "onnxruntime (>=0.15.0,<2.0)", "pandas (>1.0,<3.0)", "psutil (<6.0)", "pytest (==7.4.0)", "pytest-cov (==4.1.0)", "pytest-random-order (==1.1.0)", "pytest-rerunfailures (==12.0)", "pytest-timeout (==2.1.0)", "scikit-learn (>0.22.1,<2.0)", "tensorboard (>=2.9.1,<3.0)", "uvicorn"]
@@ -2708,6 +2800,54 @@ antlr4-python3-runtime = "==4.9.*"
 PyYAML = ">=5.1.0"
 
 [[package]]
+name = "opencv-python"
+version = "4.9.0.80"
+description = "Wrapper package for OpenCV python bindings."
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "opencv-python-4.9.0.80.tar.gz", hash = "sha256:1a9f0e6267de3a1a1db0c54213d022c7c8b5b9ca4b580e80bdc58516c922c9e1"},
+    {file = "opencv_python-4.9.0.80-cp37-abi3-macosx_10_16_x86_64.whl", hash = "sha256:7e5f7aa4486651a6ebfa8ed4b594b65bd2d2f41beeb4241a3e4b1b85acbbbadb"},
+    {file = "opencv_python-4.9.0.80-cp37-abi3-macosx_11_0_arm64.whl", hash = "sha256:71dfb9555ccccdd77305fc3dcca5897fbf0cf28b297c51ee55e079c065d812a3"},
+    {file = "opencv_python-4.9.0.80-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:7b34a52e9da36dda8c151c6394aed602e4b17fa041df0b9f5b93ae10b0fcca2a"},
+    {file = "opencv_python-4.9.0.80-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:e4088cab82b66a3b37ffc452976b14a3c599269c247895ae9ceb4066d8188a57"},
+    {file = "opencv_python-4.9.0.80-cp37-abi3-win32.whl", hash = "sha256:dcf000c36dd1651118a2462257e3a9e76db789a78432e1f303c7bac54f63ef6c"},
+    {file = "opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl", hash = "sha256:3f16f08e02b2a2da44259c7cc712e779eff1dd8b55fdb0323e8cab09548086c0"},
+]
+
+[package.dependencies]
+numpy = [
+    {version = ">=1.26.0", markers = "python_version >= \"3.12\""},
+    {version = ">=1.23.5", markers = "python_version >= \"3.11\" and python_version < \"3.12\""},
+    {version = ">=1.21.4", markers = "python_version >= \"3.10\" and platform_system == \"Darwin\" and python_version < \"3.11\""},
+    {version = ">=1.21.2", markers = "platform_system != \"Darwin\" and python_version >= \"3.10\" and python_version < \"3.11\""},
+]
+
+[[package]]
+name = "opencv-python-headless"
+version = "4.9.0.80"
+description = "Wrapper package for OpenCV python bindings."
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "opencv-python-headless-4.9.0.80.tar.gz", hash = "sha256:71a4cd8cf7c37122901d8e81295db7fb188730e33a0e40039a4e59c1030b0958"},
+    {file = "opencv_python_headless-4.9.0.80-cp37-abi3-macosx_10_16_x86_64.whl", hash = "sha256:2ea8a2edc4db87841991b2fbab55fc07b97ecb602e0f47d5d485bd75cee17c1a"},
+    {file = "opencv_python_headless-4.9.0.80-cp37-abi3-macosx_11_0_arm64.whl", hash = "sha256:e0ee54e27be493e8f7850847edae3128e18b540dac1d7b2e4001b8944e11e1c6"},
+    {file = "opencv_python_headless-4.9.0.80-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:57ce2865e8fec431c6f97a81e9faaf23fa5be61011d0a75ccf47a3c0d65fa73d"},
+    {file = "opencv_python_headless-4.9.0.80-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:976656362d68d9f40a5c66f83901430538002465f7db59142784f3893918f3df"},
+    {file = "opencv_python_headless-4.9.0.80-cp37-abi3-win32.whl", hash = "sha256:11e3849d83e6651d4e7699aadda9ec7ed7c38957cbbcb99db074f2a2d2de9670"},
+    {file = "opencv_python_headless-4.9.0.80-cp37-abi3-win_amd64.whl", hash = "sha256:a8056c2cb37cd65dfcdf4153ca16f7362afcf3a50d600d6bb69c660fc61ee29c"},
+]
+
+[package.dependencies]
+numpy = [
+    {version = ">=1.26.0", markers = "python_version >= \"3.12\""},
+    {version = ">=1.23.5", markers = "python_version >= \"3.11\" and python_version < \"3.12\""},
+    {version = ">=1.21.4", markers = "python_version >= \"3.10\" and platform_system == \"Darwin\" and python_version < \"3.11\""},
+    {version = ">=1.21.2", markers = "platform_system != \"Darwin\" and python_version >= \"3.10\" and python_version < \"3.11\""},
+]
+
+[[package]]
 name = "optuna"
 version = "3.5.0"
 description = "A hyperparameter optimization framework"
@@ -2797,9 +2937,9 @@ files = [
 
 [package.dependencies]
 numpy = [
-    {version = ">=1.22.4,<2", markers = "python_version < \"3.11\""},
-    {version = ">=1.23.2,<2", markers = "python_version == \"3.11\""},
     {version = ">=1.26.0,<2", markers = "python_version >= \"3.12\""},
+    {version = ">=1.23.2,<2", markers = "python_version == \"3.11\""},
+    {version = ">=1.22.4,<2", markers = "python_version < \"3.11\""},
 ]
 python-dateutil = ">=2.8.2"
 pytz = ">=2020.1"
@@ -3231,6 +3371,54 @@ scikit-learn = ">=0.20.2"
 tqdm = ">=4.29.1"
 
 [[package]]
+name = "pyarrow"
+version = "15.0.0"
+description = "Python library for Apache Arrow"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "pyarrow-15.0.0-cp310-cp310-macosx_10_15_x86_64.whl", hash = "sha256:0a524532fd6dd482edaa563b686d754c70417c2f72742a8c990b322d4c03a15d"},
+    {file = "pyarrow-15.0.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:60a6bdb314affa9c2e0d5dddf3d9cbb9ef4a8dddaa68669975287d47ece67642"},
+    {file = "pyarrow-15.0.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:66958fd1771a4d4b754cd385835e66a3ef6b12611e001d4e5edfcef5f30391e2"},
+    {file = "pyarrow-15.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:1f500956a49aadd907eaa21d4fff75f73954605eaa41f61cb94fb008cf2e00c6"},
+    {file = "pyarrow-15.0.0-cp310-cp310-manylinux_2_28_aarch64.whl", hash = "sha256:6f87d9c4f09e049c2cade559643424da84c43a35068f2a1c4653dc5b1408a929"},
+    {file = "pyarrow-15.0.0-cp310-cp310-manylinux_2_28_x86_64.whl", hash = "sha256:85239b9f93278e130d86c0e6bb455dcb66fc3fd891398b9d45ace8799a871a1e"},
+    {file = "pyarrow-15.0.0-cp310-cp310-win_amd64.whl", hash = "sha256:5b8d43e31ca16aa6e12402fcb1e14352d0d809de70edd185c7650fe80e0769e3"},
+    {file = "pyarrow-15.0.0-cp311-cp311-macosx_10_15_x86_64.whl", hash = "sha256:fa7cd198280dbd0c988df525e50e35b5d16873e2cdae2aaaa6363cdb64e3eec5"},
+    {file = "pyarrow-15.0.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:8780b1a29d3c8b21ba6b191305a2a607de2e30dab399776ff0aa09131e266340"},
+    {file = "pyarrow-15.0.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:fe0ec198ccc680f6c92723fadcb97b74f07c45ff3fdec9dd765deb04955ccf19"},
+    {file = "pyarrow-15.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:036a7209c235588c2f07477fe75c07e6caced9b7b61bb897c8d4e52c4b5f9555"},
+    {file = "pyarrow-15.0.0-cp311-cp311-manylinux_2_28_aarch64.whl", hash = "sha256:2bd8a0e5296797faf9a3294e9fa2dc67aa7f10ae2207920dbebb785c77e9dbe5"},
+    {file = "pyarrow-15.0.0-cp311-cp311-manylinux_2_28_x86_64.whl", hash = "sha256:e8ebed6053dbe76883a822d4e8da36860f479d55a762bd9e70d8494aed87113e"},
+    {file = "pyarrow-15.0.0-cp311-cp311-win_amd64.whl", hash = "sha256:17d53a9d1b2b5bd7d5e4cd84d018e2a45bc9baaa68f7e6e3ebed45649900ba99"},
+    {file = "pyarrow-15.0.0-cp312-cp312-macosx_10_15_x86_64.whl", hash = "sha256:9950a9c9df24090d3d558b43b97753b8f5867fb8e521f29876aa021c52fda351"},
+    {file = "pyarrow-15.0.0-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:003d680b5e422d0204e7287bb3fa775b332b3fce2996aa69e9adea23f5c8f970"},
+    {file = "pyarrow-15.0.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:f75fce89dad10c95f4bf590b765e3ae98bcc5ba9f6ce75adb828a334e26a3d40"},
+    {file = "pyarrow-15.0.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:0ca9cb0039923bec49b4fe23803807e4ef39576a2bec59c32b11296464623dc2"},
+    {file = "pyarrow-15.0.0-cp312-cp312-manylinux_2_28_aarch64.whl", hash = "sha256:9ed5a78ed29d171d0acc26a305a4b7f83c122d54ff5270810ac23c75813585e4"},
+    {file = "pyarrow-15.0.0-cp312-cp312-manylinux_2_28_x86_64.whl", hash = "sha256:6eda9e117f0402dfcd3cd6ec9bfee89ac5071c48fc83a84f3075b60efa96747f"},
+    {file = "pyarrow-15.0.0-cp312-cp312-win_amd64.whl", hash = "sha256:9a3a6180c0e8f2727e6f1b1c87c72d3254cac909e609f35f22532e4115461177"},
+    {file = "pyarrow-15.0.0-cp38-cp38-macosx_10_15_x86_64.whl", hash = "sha256:19a8918045993349b207de72d4576af0191beef03ea655d8bdb13762f0cd6eac"},
+    {file = "pyarrow-15.0.0-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:d0ec076b32bacb6666e8813a22e6e5a7ef1314c8069d4ff345efa6246bc38593"},
+    {file = "pyarrow-15.0.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:5db1769e5d0a77eb92344c7382d6543bea1164cca3704f84aa44e26c67e320fb"},
+    {file = "pyarrow-15.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:e2617e3bf9df2a00020dd1c1c6dce5cc343d979efe10bc401c0632b0eef6ef5b"},
+    {file = "pyarrow-15.0.0-cp38-cp38-manylinux_2_28_aarch64.whl", hash = "sha256:d31c1d45060180131caf10f0f698e3a782db333a422038bf7fe01dace18b3a31"},
+    {file = "pyarrow-15.0.0-cp38-cp38-manylinux_2_28_x86_64.whl", hash = "sha256:c8c287d1d479de8269398b34282e206844abb3208224dbdd7166d580804674b7"},
+    {file = "pyarrow-15.0.0-cp38-cp38-win_amd64.whl", hash = "sha256:07eb7f07dc9ecbb8dace0f58f009d3a29ee58682fcdc91337dfeb51ea618a75b"},
+    {file = "pyarrow-15.0.0-cp39-cp39-macosx_10_15_x86_64.whl", hash = "sha256:47af7036f64fce990bb8a5948c04722e4e3ea3e13b1007ef52dfe0aa8f23cf7f"},
+    {file = "pyarrow-15.0.0-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:93768ccfff85cf044c418bfeeafce9a8bb0cee091bd8fd19011aff91e58de540"},
+    {file = "pyarrow-15.0.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:f6ee87fd6892700960d90abb7b17a72a5abb3b64ee0fe8db6c782bcc2d0dc0b4"},
+    {file = "pyarrow-15.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:001fca027738c5f6be0b7a3159cc7ba16a5c52486db18160909a0831b063c4e4"},
+    {file = "pyarrow-15.0.0-cp39-cp39-manylinux_2_28_aarch64.whl", hash = "sha256:d1c48648f64aec09accf44140dccb92f4f94394b8d79976c426a5b79b11d4fa7"},
+    {file = "pyarrow-15.0.0-cp39-cp39-manylinux_2_28_x86_64.whl", hash = "sha256:972a0141be402bb18e3201448c8ae62958c9c7923dfaa3b3d4530c835ac81aed"},
+    {file = "pyarrow-15.0.0-cp39-cp39-win_amd64.whl", hash = "sha256:f01fc5cf49081426429127aa2d427d9d98e1cb94a32cb961d583a70b7c4504e6"},
+    {file = "pyarrow-15.0.0.tar.gz", hash = "sha256:876858f549d540898f927eba4ef77cd549ad8d24baa3207cf1b72e5788b50e83"},
+]
+
+[package.dependencies]
+numpy = ">=1.16.6,<2"
+
+[[package]]
 name = "pycparser"
 version = "2.21"
 description = "C parser in Python"
@@ -3595,6 +3783,23 @@ files = [
 
 [package.dependencies]
 cffi = {version = "*", markers = "implementation_name == \"pypy\""}
+
+[[package]]
+name = "qudida"
+version = "0.0.4"
+description = "QUick and DIrty Domain Adaptation"
+optional = false
+python-versions = ">=3.5.0"
+files = [
+    {file = "qudida-0.0.4-py3-none-any.whl", hash = "sha256:4519714c40cd0f2e6c51e1735edae8f8b19f4efe1f33be13e9d644ca5f736dd6"},
+    {file = "qudida-0.0.4.tar.gz", hash = "sha256:db198e2887ab0c9aa0023e565afbff41dfb76b361f85fd5e13f780d75ba18cc8"},
+]
+
+[package.dependencies]
+numpy = ">=0.18.0"
+opencv-python-headless = ">=4.0.1"
+scikit-learn = ">=0.19.1"
+typing-extensions = "*"
 
 [[package]]
 name = "referencing"
@@ -4080,6 +4285,54 @@ quality = ["black (==22.3)", "click (==8.0.4)", "flake8 (>=3.8.3)", "isort (>=5.
 tensorflow = ["safetensors[numpy]", "tensorflow (>=2.11.0)"]
 testing = ["h5py (>=3.7.0)", "huggingface_hub (>=0.12.1)", "hypothesis (>=6.70.2)", "pytest (>=7.2.0)", "pytest-benchmark (>=4.0.0)", "safetensors[numpy]", "setuptools_rust (>=1.5.2)"]
 torch = ["safetensors[numpy]", "torch (>=1.10)"]
+
+[[package]]
+name = "scikit-image"
+version = "0.22.0"
+description = "Image processing in Python"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "scikit_image-0.22.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:74ec5c1d4693506842cc7c9487c89d8fc32aed064e9363def7af08b8f8cbb31d"},
+    {file = "scikit_image-0.22.0-cp310-cp310-macosx_12_0_arm64.whl", hash = "sha256:a05ae4fe03d802587ed8974e900b943275548cde6a6807b785039d63e9a7a5ff"},
+    {file = "scikit_image-0.22.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:6a92dca3d95b1301442af055e196a54b5a5128c6768b79fc0a4098f1d662dee6"},
+    {file = "scikit_image-0.22.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3663d063d8bf2fb9bdfb0ca967b9ee3b6593139c860c7abc2d2351a8a8863938"},
+    {file = "scikit_image-0.22.0-cp310-cp310-win_amd64.whl", hash = "sha256:ebdbdc901bae14dab637f8d5c99f6d5cc7aaf4a3b6f4003194e003e9f688a6fc"},
+    {file = "scikit_image-0.22.0-cp311-cp311-macosx_10_9_x86_64.whl", hash = "sha256:95d6da2d8a44a36ae04437c76d32deb4e3c993ffc846b394b9949fd8ded73cb2"},
+    {file = "scikit_image-0.22.0-cp311-cp311-macosx_12_0_arm64.whl", hash = "sha256:2c6ef454a85f569659b813ac2a93948022b0298516b757c9c6c904132be327e2"},
+    {file = "scikit_image-0.22.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:e87872f067444ee90a00dd49ca897208308645382e8a24bd3e76f301af2352cd"},
+    {file = "scikit_image-0.22.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:c5c378db54e61b491b9edeefff87e49fcf7fdf729bb93c777d7a5f15d36f743e"},
+    {file = "scikit_image-0.22.0-cp311-cp311-win_amd64.whl", hash = "sha256:2bcb74adb0634258a67f66c2bb29978c9a3e222463e003b67ba12056c003971b"},
+    {file = "scikit_image-0.22.0-cp312-cp312-macosx_10_9_x86_64.whl", hash = "sha256:003ca2274ac0fac252280e7179ff986ff783407001459ddea443fe7916e38cff"},
+    {file = "scikit_image-0.22.0-cp312-cp312-macosx_12_0_arm64.whl", hash = "sha256:cf3c0c15b60ae3e557a0c7575fbd352f0c3ce0afca562febfe3ab80efbeec0e9"},
+    {file = "scikit_image-0.22.0-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:f5b23908dd4d120e6aecb1ed0277563e8cbc8d6c0565bdc4c4c6475d53608452"},
+    {file = "scikit_image-0.22.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:be79d7493f320a964f8fcf603121595ba82f84720de999db0fcca002266a549a"},
+    {file = "scikit_image-0.22.0-cp312-cp312-win_amd64.whl", hash = "sha256:722b970aa5da725dca55252c373b18bbea7858c1cdb406e19f9b01a4a73b30b2"},
+    {file = "scikit_image-0.22.0-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:22318b35044cfeeb63ee60c56fc62450e5fe516228138f1d06c7a26378248a86"},
+    {file = "scikit_image-0.22.0-cp39-cp39-macosx_12_0_arm64.whl", hash = "sha256:9e801c44a814afdadeabf4dffdffc23733e393767958b82319706f5fa3e1eaa9"},
+    {file = "scikit_image-0.22.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:c472a1fb3665ec5c00423684590631d95f9afcbc97f01407d348b821880b2cb3"},
+    {file = "scikit_image-0.22.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:3b7a6c89e8d6252332121b58f50e1625c35f7d6a85489c0b6b7ee4f5155d547a"},
+    {file = "scikit_image-0.22.0-cp39-cp39-win_amd64.whl", hash = "sha256:5071b8f6341bfb0737ab05c8ab4ac0261f9e25dbcc7b5d31e5ed230fd24a7929"},
+    {file = "scikit_image-0.22.0.tar.gz", hash = "sha256:018d734df1d2da2719087d15f679d19285fce97cd37695103deadfaef2873236"},
+]
+
+[package.dependencies]
+imageio = ">=2.27"
+lazy_loader = ">=0.3"
+networkx = ">=2.8"
+numpy = ">=1.22"
+packaging = ">=21"
+pillow = ">=9.0.1"
+scipy = ">=1.8"
+tifffile = ">=2022.8.12"
+
+[package.extras]
+build = ["Cython (>=0.29.32)", "build", "meson-python (>=0.14)", "ninja", "numpy (>=1.22)", "packaging (>=21)", "pythran", "setuptools (>=67)", "spin (==0.6)", "wheel"]
+data = ["pooch (>=1.6.0)"]
+developer = ["pre-commit", "tomli"]
+docs = ["PyWavelets (>=1.1.1)", "dask[array] (>=2022.9.2)", "ipykernel", "ipywidgets", "kaleido", "matplotlib (>=3.5)", "myst-parser", "numpydoc (>=1.6)", "pandas (>=1.5)", "plotly (>=5.10)", "pooch (>=1.6)", "pydata-sphinx-theme (>=0.14.1)", "pytest-runner", "scikit-learn (>=1.1)", "seaborn (>=0.11)", "sphinx (>=7.2)", "sphinx-copybutton", "sphinx-gallery (>=0.14)", "sphinx_design (>=0.5)", "tifffile (>=2022.8.12)"]
+optional = ["PyWavelets (>=1.1.1)", "SimpleITK", "astropy (>=5.0)", "cloudpickle (>=0.2.1)", "dask[array] (>=2021.1.0)", "matplotlib (>=3.5)", "pooch (>=1.6.0)", "pyamg", "scikit-learn (>=1.1)"]
+test = ["asv", "matplotlib (>=3.5)", "numpydoc (>=1.5)", "pooch (>=1.6.0)", "pytest (>=7.0)", "pytest-cov (>=2.11.0)", "pytest-faulthandler", "pytest-localserver"]
 
 [[package]]
 name = "scikit-learn"
@@ -4642,6 +4895,23 @@ files = [
     {file = "threadpoolctl-3.2.0-py3-none-any.whl", hash = "sha256:2b7818516e423bdaebb97c723f86a7c6b0a83d3f3b0970328d66f4d9104dc032"},
     {file = "threadpoolctl-3.2.0.tar.gz", hash = "sha256:c96a0ba3bdddeaca37dc4cc7344aafad41cdb8c313f74fdfe387a867bba93355"},
 ]
+
+[[package]]
+name = "tifffile"
+version = "2024.2.12"
+description = "Read and write TIFF files"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "tifffile-2024.2.12-py3-none-any.whl", hash = "sha256:870998f82fbc94ff7c3528884c1b0ae54863504ff51dbebea431ac3fa8fb7c21"},
+    {file = "tifffile-2024.2.12.tar.gz", hash = "sha256:4920a3ec8e8e003e673d3c6531863c99eedd570d1b8b7e141c072ed78ff8030d"},
+]
+
+[package.dependencies]
+numpy = "*"
+
+[package.extras]
+all = ["defusedxml", "fsspec", "imagecodecs (>=2023.8.12)", "lxml", "matplotlib", "zarr"]
 
 [[package]]
 name = "timm"
@@ -5399,4 +5669,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "73cd87cec8e67a0c85cf4fc9fc5349cb3fd16b8d77dea870e7fdb1553f141ff6"
+content-hash = "bfbcd8da97174ae3468bb345a11e0cfa328652cdc888fdaedaea329b4d36015b"
