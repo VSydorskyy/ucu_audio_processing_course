@@ -48,8 +48,8 @@ jupyter lab --port 7766
     1. [] Basic Audio Classification model
         - Author: 
         - Recording: 
-    2. [] Validation 
-        - Author: 
+    2. [x] Validation 
+        - Author: Anton, Andrii
         - Recording:
     3. [] Speaker diarization 
         - Author: 
