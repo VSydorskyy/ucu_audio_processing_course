@@ -46,7 +46,7 @@ jupyter lab --port 7766
         - Recording:
 2. [] Audio Classification and Detection. Validation
     1. [x] Basic Audio Classification model
-        - Author: Volodymyr
+        - Author: Volodymyr, Andrii
         - Kaggle Inference: https://www.kaggle.com/code/vladimirsydor/ucu-hms-inference/notebook
         - Recording: 
     2. [x] Validation 
