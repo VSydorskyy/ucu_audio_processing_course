@@ -12,7 +12,7 @@
 
 Course will be using Python and Pytorch as main Deep Learning Framework. So it is essential to have basic Pytorch knowledge and a bit of hands-on experience
 
-In order to update or gain this knowledge you can list of next tutorials and resources:
+In order to update or gain this knowledge you can use list of next tutorials and resources:
 - [Official Pytorch Tutorials](https://pytorch.org/tutorials/)
 - [Stanford Pytorch Tutorials](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/materials/CS224N_PyTorch_Tutorial.html)
 - [Repository with different Pytorch Tutorials](https://github.com/yunjey/pytorch-tutorial)
