@@ -8,6 +8,16 @@
 - VS Code — [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [macOS](https://code.visualstudio.com/docs/setup/mac) and [Windows](https://code.visualstudio.com/docs/setup/windows) installation guides.
 - (Optional) CUDA Version: 11.4; Driver Version: 470.129.06 — [Installation](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html).
 
+### Pytorch base knoweledge 
+
+Course will be using Python and Pytorch as main Deep Learning Framework. So it is essential to have basic Pytorch knowledge and a bit of hands-on experience
+
+In order to update or gain this knowledge you can list of next tutorials and resources:
+- [Official Pytorch Tutorials](https://pytorch.org/tutorials/)
+- [Stanford Pytorch Tutorials](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/materials/CS224N_PyTorch_Tutorial.html)
+- [Repository with different Pytorch Tutorials](https://github.com/yunjey/pytorch-tutorial)
+- [Detailed example of Sequence Classification and NER](https://github.com/VSydorskyy/iasa_nlp_course/blob/main/Lecture_4/Recurrent_models.ipynb)
+
 ## Setup environment 
 
 1. Install Poetry using [Poetry full guide](https://python-poetry.org/docs/#installation).
