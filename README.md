@@ -54,7 +54,7 @@ jupyter lab --port 7766
     3. [x] Self Supervised Representations
         - Author: Volodymyr, Andrii
         - Recording:
-2. [] Audio Classification and Detection. Validation
+2. [x] Audio Classification and Detection. Validation
     1. [x] Basic Audio Classification model
         - Author: Volodymyr, Andrii
         - Kaggle Inference: https://www.kaggle.com/code/vladimirsydor/ucu-hms-inference/notebook
