@@ -62,8 +62,8 @@ jupyter lab --port 7766
     2. [x] Validation 
         - Author: Anton, Andrii
         - Recording:
-    3. [] Speaker diarization 
-        - Author: 
+    3. [x] Speaker diarization 
+        - Author: Anton, Andrii
         - Recording:
 3. [] ASR
     1. [] Data Preparation
