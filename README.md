@@ -66,8 +66,9 @@ jupyter lab --port 7766
         - Author: Anton, Andrii
         - Recording:
 3. [] ASR
-    1. [] Data Preparation
-        - Author: 
+    1. [x] Introduction to ASR
+        - Author: Oles
+        - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
         - Recording:
     2. [] Modelling
         - Author: 
