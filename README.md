@@ -58,6 +58,7 @@ jupyter lab --port 7766
     1. [x] Basic Audio Classification model
         - Author: Volodymyr, Andrii
         - Kaggle Inference: https://www.kaggle.com/code/vladimirsydor/ucu-hms-inference/notebook
+        - Processed Data: https://www.kaggle.com/datasets/vladimirsydor/ucu-hms-h5py/data
         - Recording: 
     2. [x] Validation 
         - Author: Anton, Andrii
@@ -66,8 +67,9 @@ jupyter lab --port 7766
         - Author: Anton, Andrii
         - Recording:
 3. [] ASR
-    1. [] Data Preparation
-        - Author: 
+    1. [x] Introduction to ASR
+        - Author: Oles
+        - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
         - Recording:
     2. [] Modelling
         - Author: 
