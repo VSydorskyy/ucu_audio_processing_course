@@ -32,6 +32,14 @@ pyarrow = "^15.0.0"
 h5py = "^3.10.0"
 albumentations = "^1.4.0"
 lightning = "^2.2.0.post0"
+datasets = "^2.18.0"
+jiwer = "^3.0.3"
+ipdb = "^0.13.13"
+accelerate = "^0.28.0"
+pyctcdecode = "^0.5.0"
+jsonlines = "^4.0.0"
+kenlm = {git = "https://github.com/kpu/kenlm.git"}
+nltk = "^3.8.1"
 
 
 [build-system]
