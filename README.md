@@ -71,8 +71,8 @@ jupyter lab --port 7766
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
         - Recording:
-    2. [] Modelling
-        - Author: 
+    2. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
+        - Author: Yurii, Volodymyr
         - Recording:
     3. [] Modelling
         - Author: 
@@ -123,7 +123,7 @@ TODO
 
 ```
 @misc{ucu_audio_processing_course_2024,
-  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Andrii Shevtsov},
+  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Yurii Laba, Andrii Shevtsov},
   title = {UCU Audio Processing Course 2024},
   year = {2024},
   publisher = {GitHub},
