@@ -66,7 +66,7 @@ jupyter lab --port 7766
     3. [x] Speaker diarization 
         - Author: Anton, Andrii
         - Recording:
-3. [] ASR
+3. [x] ASR
     1. [x] Introduction to ASR
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
@@ -74,8 +74,8 @@ jupyter lab --port 7766
     2. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
         - Author: Yurii, Volodymyr
         - Recording:
-    3. [] Modelling
-        - Author: 
+    3. [x] introduction into Transformers. Whisper
+        - Author: Yurii, Andrii
         - Recording:
 4. [] TTS
     1. [] Introduction into Generative Models
