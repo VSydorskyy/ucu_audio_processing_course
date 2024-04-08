@@ -75,7 +75,7 @@ jupyter lab --port 7766
         - Author: Yurii, Volodymyr
         - Recording:
     3. [x] introduction into Transformers. Whisper
-        - Author: Yurii
+        - Author: Yurii, Andrii
         - Recording:
 4. [] TTS
     1. [] Introduction into Generative Models
