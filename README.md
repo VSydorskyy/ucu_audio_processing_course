@@ -5,6 +5,7 @@
 ## Pre-requirements 
 
 - [Poetry](https://python-poetry.org/docs/#installation).
+- [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). I advice using Miniconda
 - VS Code — [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [macOS](https://code.visualstudio.com/docs/setup/mac) and [Windows](https://code.visualstudio.com/docs/setup/windows) installation guides.
 - (Optional) CUDA Version: 11.4; Driver Version: 470.129.06 — [Installation](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html).
 
@@ -20,6 +21,8 @@ In order to update or gain this knowledge you can use list of next tutorials and
 
 ## Setup environment 
 
+### Poetry (Main)
+
 1. Install Poetry using [Poetry full guide](https://python-poetry.org/docs/#installation).
     > **Important**: Check if it is working using `poetry --version`.
 2. Run command to keep your `.venv` folder right in your project: `poetry config virtualenvs.in-project true`
@@ -32,6 +35,19 @@ In order to activate environment on the next use:
 `poetry shell`
 
 > **Important**: you should be inside your project folder to do it.
+
+### Conda (For TTS)
+
+Next tutorial is mostly taken from [NeMo repo](https://github.com/NVIDIA/NeMo?tab=readme-ov-file#conda)
+
+```bash
+conda create --name nemo python==3.10.12
+conda activate nemo
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+pip install Cython
+pip install nemo_toolkit['all']
+pip install jupyterlab
+```
 
 # Start Jupyter
 
@@ -78,8 +94,9 @@ jupyter lab --port 7766
         - Author: Yurii, Andrii
         - Recording:
 4. [] TTS
-    1. [] Introduction into Generative Models
-        - Author: 
+    1. [x] Introduction into TTS. Tacotron2
+        - Author: Taras, Volodymyr
+        - Original source: https://github.com/NVIDIA/NeMo?tab=readme-ov-file
         - Recording:
     2. [] Modelling
         - Author: 
@@ -123,7 +140,7 @@ TODO
 
 ```
 @misc{ucu_audio_processing_course_2024,
-  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Yurii Laba, Andrii Shevtsov},
+  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Yurii Laba, Andrii Shevtsov, Taras Sereda},
   title = {UCU Audio Processing Course 2024},
   year = {2024},
   publisher = {GitHub},
