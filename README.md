@@ -93,16 +93,13 @@ jupyter lab --port 7766
     3. [x] introduction into Transformers. Whisper
         - Author: Yurii, Andrii
         - Recording:
-4. [] TTS
+4. [x] TTS
     1. [x] Introduction into TTS. Tacotron2
         - Author: Taras, Volodymyr
         - Original source: https://github.com/NVIDIA/NeMo?tab=readme-ov-file
         - Recording:
-    2. [] Modelling
-        - Author: 
-        - Recording:
-    3. [] Modelling
-        - Author: 
+    2. [x] Pheme TTS
+        - Author: Taras, Yurii
         - Recording:
 
 # Use Kaggle or Colab for computations
