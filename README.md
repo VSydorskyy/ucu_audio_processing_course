@@ -131,7 +131,9 @@ TODO
 
 # Feedback [Only For Lectors]
 
-TODO
+## 2024
+
+Raw table: https://docs.google.com/spreadsheets/d/1zpYV6K_BtvOUqX09dIwwgJLwhoPH0q5Eu7ZaOF0-fcA/edit?usp=sharing
 
 # Citation
 
