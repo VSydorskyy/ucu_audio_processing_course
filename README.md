@@ -59,47 +59,54 @@ jupyter lab --port 7766
 
 # Content 
 
-1. [x] Intro in Audio ML. Basic Audio Processing. Self Supervised Representations
+1. [x] Intro in Audio. Basic Audio Processing
     1. [x] Intro in Audio ML. Digital wave representation. Spectral audio representation
-        - Author: Volodymyr, Andrii
+        - Author: Volodymyr
         - Recording: 
     2. [x] Pre-processing, Filtering, Clustering
-        - Author: Oles, Andrii
+        - Author: Oles
         - Colab: https://colab.research.google.com/drive/1PaM4K2eJoqeC8s0JLiiJ7RrDFI56rSxn?usp=sharing
         - Recording:
-    3. [x] Self Supervised Representations
-        - Author: Volodymyr, Andrii
+2. [] Into to Pytorch. Basic Deep Learning Tasks
+    1. [x] Validation 
+        - Author: Anton
         - Recording:
-2. [x] Audio Classification and Detection. Validation
-    1. [x] Basic Audio Classification model
-        - Author: Volodymyr, Andrii
-        - Kaggle Inference: https://www.kaggle.com/code/vladimirsydor/ucu-hms-inference/notebook
-        - Processed Data: https://www.kaggle.com/datasets/vladimirsydor/ucu-hms-h5py/data
+    2. [] Intro to Basic Pytroch. CNNs. Image Classification
+        - Author:
+        - Recording:
+    3. [] Intro to Lightning. RNNs. Named Entity Recognition
+        - Author: Anton
+        - Recording:
+    4. [] Self Supervised Audio Representations
+        - Author: Igor
+        - Recording:
+3. [] Audio Classification and Diarization
+    1. [] Audio Classification model
+        - Author: Volodymyr
         - Recording: 
-    2. [x] Validation 
-        - Author: Anton, Andrii
+    2. [x] Speaker diarization 
+        - Author: Anton
         - Recording:
-    3. [x] Speaker diarization 
-        - Author: Anton, Andrii
-        - Recording:
-3. [x] ASR
-    1. [x] Introduction to ASR
+4. [] ASR
+    1. [] Introduction to Generative Models.
+        - Author: Andrii
+        - Recording: 
+    2. [x] Introduction to ASR
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
         - Recording:
-    2. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
-        - Author: Yurii, Volodymyr
+    3. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
+        - Author: Yurii
         - Recording:
-    3. [x] introduction into Transformers. Whisper
-        - Author: Yurii, Andrii
+    4. [x] Introduction into Transformers. Whisper
+        - Author: Yurii
         - Recording:
-4. [x] TTS
-    1. [x] Introduction into TTS. Tacotron2
-        - Author: Taras, Volodymyr
-        - Original source: https://github.com/NVIDIA/NeMo?tab=readme-ov-file
+5. [] TTS
+    1. [] TTS. Sequance-2-Sequance models
+        - Author: 
         - Recording:
-    2. [x] Pheme TTS
-        - Author: Taras, Yurii
+    2. [] TTS. Language Modelling approach
+        - Author: Yevhenii
         - Recording:
 
 # Use Kaggle or Colab for computations
