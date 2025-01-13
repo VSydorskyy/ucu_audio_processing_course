@@ -72,42 +72,46 @@ jupyter lab --port 7766
         - Author: Anton
         - Recording:
     2. [] Intro to Basic Pytroch. CNNs. Image Classification
-        - Author:
+        - Author: Ostap
         - Recording:
     3. [] Intro to Lightning. RNNs. Named Entity Recognition
         - Author: Anton
         - Recording:
     4. [] Self Supervised Audio Representations
-        - Author: Igor
+        - Author: Yurii Yelisieiev 
         - Recording:
 3. [] Audio Classification and Diarization
     1. [] Audio Classification model
         - Author: Volodymyr
         - Recording: 
-    2. [x] Speaker diarization 
-        - Author: Anton
+    2. [] Speaker diarization 
+        - Author: Yurii Laba
         - Recording:
 4. [] ASR
     1. [] Introduction to Generative Models.
-        - Author: Andrii
+        - Author: Andrii Shevtsov
         - Recording: 
     2. [x] Introduction to ASR
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
         - Recording:
     3. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
-        - Author: Yurii
+        - Author: Yurii Laba
         - Recording:
     4. [x] Introduction into Transformers. Whisper
-        - Author: Yurii
+        - Author: Yurii Laba
         - Recording:
 5. [] TTS
     1. [] TTS. Sequance-2-Sequance models
-        - Author: 
+        - Author: Andrii Zhuravlov
         - Recording:
     2. [] TTS. Language Modelling approach
         - Author: Yevhenii
         - Recording:
+6. [] Speech 2 Speech
+    1. [] S2S. Diffusion model 
+        - Author: Yevhenii and Volodymyr
+        - Recording: 
 
 # Use Kaggle or Colab for computations
 
