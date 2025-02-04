@@ -32,6 +32,8 @@ In order to update or gain this knowledge you can use list of next tutorials and
 2. Run command to keep your `.venv` folder right in your project: `poetry config virtualenvs.in-project true`
 3. `poetry shell`.
     > **Important**: If you have `conda` and 2 environments were activated: `conda deactivate`.
+    
+    > If `poetry shell` returns *"The command "shell" does not exist."*, run `poetry self add poetry-plugin-shell` and try again ([source](https://python-poetry.org/docs/cli/#script-project:~:text=The%20shell%20command%20was%20moved%20to%20a%20plugin%3A%20poetry%2Dplugin%2Dshell)).
 4. `poetry install --no-root`.
 
 In order to activate environment on the next use:
