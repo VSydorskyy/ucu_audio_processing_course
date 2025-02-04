@@ -19,6 +19,10 @@ In order to update or gain this knowledge you can use list of next tutorials and
 - [Repository with different Pytorch Tutorials](https://github.com/yunjey/pytorch-tutorial)
 - [Detailed example of Sequence Classification and NER](https://github.com/VSydorskyy/iasa_nlp_course/blob/main/Lecture_4/Recurrent_models.ipynb)
 
+### Other additional materials
+
+- [Youtube Videos. Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
+
 ## Setup environment 
 
 ### Poetry (Main)
@@ -62,7 +66,7 @@ jupyter lab --port 7766
 1. [x] Intro in Audio. Basic Audio Processing
     1. [x] Intro in Audio ML. Digital wave representation. Spectral audio representation
         - Author: Volodymyr
-        - Recording: 
+        - Recording: https://www.youtube.com/watch?v=qU3uiP2XSFg
     2. [x] Pre-processing, Filtering, Clustering
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1PaM4K2eJoqeC8s0JLiiJ7RrDFI56rSxn?usp=sharing
