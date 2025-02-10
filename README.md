@@ -72,7 +72,11 @@ jupyter lab --port 7766
     2. [x] Pre-processing, Filtering, Clustering
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1PaM4K2eJoqeC8s0JLiiJ7RrDFI56rSxn?usp=sharing
-        - Recording:
+        - Recording: https://youtu.be/LnCWHg6hn5o
+    3. Homework
+        - Google Form: https://forms.gle/kW9gGSocLyGTWLah6
+        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_1/Lecture_2/Pre_processing_Filtering_Clustering.ipynb
+        - Deadline: 24.02.2025, 24:00 GMT +02:00
 2. [] Into to Pytorch. Basic Deep Learning Tasks
     1. [x] Validation 
         - Author: Anton
