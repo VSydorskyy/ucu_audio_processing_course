@@ -68,7 +68,7 @@ jupyter lab --port 7766
 1. [x] Intro in Audio. Basic Audio Processing
     1. [x] Intro in Audio ML. Digital wave representation. Spectral audio representation
         - Author: Volodymyr
-        - Recording: https://www.youtube.com/watch?v=qU3uiP2XSFg
+        - Recording: https://youtu.be/qU3uiP2XSFg
     2. [x] Pre-processing, Filtering, Clustering
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1PaM4K2eJoqeC8s0JLiiJ7RrDFI56rSxn?usp=sharing
