@@ -71,7 +71,6 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/qU3uiP2XSFg
     2. [x] Pre-processing, Filtering, Clustering
         - Author: Oles
-        - Colab: https://colab.research.google.com/drive/1PaM4K2eJoqeC8s0JLiiJ7RrDFI56rSxn?usp=sharing
         - Recording: https://youtu.be/LnCWHg6hn5o
     3. Homework
         - Google Form: https://forms.gle/kW9gGSocLyGTWLah6
