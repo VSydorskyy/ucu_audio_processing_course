@@ -78,8 +78,8 @@ jupyter lab --port 7766
         - Deadline: 24.02.2025, 24:00 GMT +02:00
 2. [] Into to Pytorch. Basic Deep Learning Tasks
     1. [x] Validation 
-        - Author: Anton
-        - Recording:
+        - Author: Anton and Volodymyr
+        - Recording: https://youtu.be/HA4ZP3CH1UI
     2. [] Intro to Basic Pytroch. CNNs. Image Classification
         - Author: Ostap
         - Recording:
