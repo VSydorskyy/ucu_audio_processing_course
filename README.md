@@ -80,9 +80,9 @@ jupyter lab --port 7766
     1. [x] Validation 
         - Author: Anton and Volodymyr
         - Recording: https://youtu.be/HA4ZP3CH1UI
-    2. [] Intro to Basic Pytroch. CNNs. Image Classification
+    2. [x] Intro to Basic Pytroch. CNNs. Image Classification
         - Author: Ostap
-        - Recording:
+        - Recording: https://youtu.be/meRa1qNjQJs
     3. [] Intro to Lightning. RNNs. Named Entity Recognition
         - Author: Anton
         - Recording:
