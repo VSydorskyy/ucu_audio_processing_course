@@ -83,9 +83,9 @@ jupyter lab --port 7766
     2. [x] Intro to Basic Pytroch. CNNs. Image Classification
         - Author: Ostap
         - Recording: https://youtu.be/meRa1qNjQJs
-    3. [] Intro to Lightning. RNNs. Named Entity Recognition
+    3. [x] Intro to Lightning. RNNs. Named Entity Recognition
         - Author: Anton
-        - Recording:
+        - Recording: https://youtu.be/MG-dWWPDvQM
     4. [] Self Supervised Audio Representations
         - Author: Yurii Yelisieiev 
         - Recording:
