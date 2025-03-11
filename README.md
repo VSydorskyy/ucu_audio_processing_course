@@ -76,7 +76,7 @@ jupyter lab --port 7766
         - Google Form: https://forms.gle/kW9gGSocLyGTWLah6
         - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_1/Lecture_2/Pre_processing_Filtering_Clustering.ipynb
         - Deadline: 24.02.2025, 24:00 GMT +02:00
-2. [] Into to Pytorch. Basic Deep Learning Tasks
+2. [x] Into to Pytorch. Basic Deep Learning Tasks
     1. [x] Validation 
         - Author: Anton and Volodymyr
         - Recording: https://youtu.be/HA4ZP3CH1UI
@@ -86,9 +86,13 @@ jupyter lab --port 7766
     3. [x] Intro to Lightning. RNNs. Named Entity Recognition
         - Author: Anton
         - Recording: https://youtu.be/MG-dWWPDvQM
-    4. [] Self Supervised Audio Representations
+    4. [x] Self Supervised Audio Representations
         - Author: Yurii Yelisieiev 
-        - Recording:
+        - Recording: https://youtu.be/5NyYP8oNbV8
+    5. Homework
+        - Google Form: https://forms.gle/4WHJourwLs29ZKYU8
+        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_2/Lecture_4/Self_Supervised_Representations.ipynb
+        - Deadline: 07.03.2025, 24:00 GMT +02:00
 3. [] Audio Classification and Diarization
     1. [] Audio Classification model
         - Author: Volodymyr
