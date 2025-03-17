@@ -92,13 +92,17 @@ jupyter lab --port 7766
     5. Homework
         - Google Form: https://forms.gle/4WHJourwLs29ZKYU8
         - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_2/Lecture_4/Self_Supervised_Representations.ipynb
-        - Deadline: 07.03.2025, 24:00 GMT +02:00
+        - Deadline: 07.04.2025, 24:00 GMT +02:00
 3. [] Audio Classification and Diarization
-    1. [] Audio Classification model
+    1. [x] Audio Classification model
         - Author: Volodymyr
-        - Recording: 
-    2. [] Speaker diarization 
-        - Author: Yurii Laba
+        - Recording: https://youtu.be/24Ee1LCDUNg
+    3. Competition Alert !!!
+        - Competition: https://www.kaggle.com/competitions/birdclef-2025/overview
+        - Points: Bronze zone - 20 points; Silver zone - 40 points; Gold zone - 80 points
+        - Deadline: 25.05.2025, 24:00 GMT +02:00
+    4. [] Speaker diarization 
+        - Author: Volodymyr
         - Recording:
 4. [] ASR
     1. [] Introduction to Generative Models.
