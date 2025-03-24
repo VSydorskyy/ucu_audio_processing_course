@@ -103,7 +103,7 @@ jupyter lab --port 7766
         - Deadline: 25.05.2025, 24:00 GMT +02:00
     3. [x] Speaker diarization 
         - Author: Yurii Paniv
-        - Recording:
+        - Recording: https://youtu.be/9hHF91aZIOk
     4. Homework
         - Google Form: https://forms.gle/r6seb6MRH7a2d7GcA
         - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_3/Lecture_2/SpeakerDiarization.ipynb
