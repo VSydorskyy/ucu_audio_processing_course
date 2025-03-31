@@ -111,7 +111,7 @@ jupyter lab --port 7766
 4. [] ASR
     1. [x] Introduction to Generative Models.
         - Author: Andrii Shevtsov
-        - Recording: 
+        - Recording: https://youtu.be/5ZCKRZUpAa8
     2. [x] Introduction to ASR
         - Author: Oles
         - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
