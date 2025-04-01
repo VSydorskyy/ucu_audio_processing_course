@@ -107,7 +107,7 @@ jupyter lab --port 7766
     4. Homework
         - Google Form: https://forms.gle/r6seb6MRH7a2d7GcA
         - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_3/Lecture_2/SpeakerDiarization.ipynb
-        - Deadline: 07.04.2025, 24:00 GMT +02:00
+        - Deadline: 14.04.2025, 24:00 GMT +02:00
 4. [] ASR
     1. [x] Introduction to Generative Models.
         - Author: Andrii Shevtsov
