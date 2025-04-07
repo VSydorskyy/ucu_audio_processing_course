@@ -114,8 +114,7 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/5ZCKRZUpAa8
     2. [x] Introduction to ASR
         - Author: Oles
-        - Colab: https://colab.research.google.com/drive/1iJvuurEQDaOkBba2zm1DSEkcdNDGhmU4
-        - Recording:
+        - Recording: https://youtu.be/MbvtrVjumYE
     3. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
         - Author: Yurii Laba
         - Recording:
