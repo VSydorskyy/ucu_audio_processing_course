@@ -108,7 +108,7 @@ jupyter lab --port 7766
         - Google Form: https://forms.gle/r6seb6MRH7a2d7GcA
         - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_3/Lecture_2/SpeakerDiarization.ipynb
         - Deadline: 14.04.2025, 24:00 GMT +02:00
-4. [] ASR
+4. [x] ASR
     1. [x] Introduction to Generative Models.
         - Author: Andrii Shevtsov
         - Recording: https://youtu.be/5ZCKRZUpAa8
@@ -117,10 +117,14 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/MbvtrVjumYE
     3. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
         - Author: Yurii Laba and Volodymyr
-        - Recording:
+        - Recording: https://youtu.be/Z48gxBCel5c
     4. [x] Introduction into Transformers. Whisper
-        - Author: Yurii Laba
-        - Recording:
+        - Author: Yurii Laba and Volodymyr
+        - Recording: https://youtu.be/przbTFFVXpY
+    5. Homework
+        - Google Form: https://forms.gle/tR6xFUTQn11ucMme6
+        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_4/Lecture_4/whisper_from_scratch.ipynb
+        - Deadline: 14.05.2025, 24:00 GMT +02:00
 5. [] TTS
     1. [] TTS. Sequence-2-Sequence models
         - Author: Andrii Zhuravlov
