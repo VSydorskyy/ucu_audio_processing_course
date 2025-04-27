@@ -122,8 +122,8 @@ jupyter lab --port 7766
         - Author: Yurii Laba
         - Recording:
 5. [] TTS
-    1. [] TTS. Sequence-2-Sequence models
-        - Author: Andrii Zhuravlov
+    1. [x] TTS. Sequence-2-Sequence models
+        - Author: Andrii Zhuravlov and Volodymyr
         - Recording:
     2. [] TTS. Language Modelling approach
         - Author: Yevhenii
@@ -169,10 +169,10 @@ Raw table: https://docs.google.com/spreadsheets/d/1zpYV6K_BtvOUqX09dIwwgJLwhoPH0
 # Citation
 
 ```
-@misc{ucu_audio_processing_course_2024,
-  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Yurii Laba, Andrii Shevtsov, Taras Sereda},
-  title = {UCU Audio Processing Course 2024},
-  year = {2024},
+@misc{ucu_audio_processing_course_2025,
+  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Yurii Laba, Andrii Shevtsov, Ostap Viniavskyi, Yurii Yelisieiev, Yurii Paniv, Andrii Zhuravlov},
+  title = {UCU Audio Processing Course 2025},
+  year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/VSydorskyy/ucu_audio_processing_course}},
