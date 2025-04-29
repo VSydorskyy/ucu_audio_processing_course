@@ -128,7 +128,7 @@ jupyter lab --port 7766
 5. [] TTS
     1. [x] TTS. Sequence-2-Sequence models
         - Author: Andrii Zhuravlov and Volodymyr
-        - Recording: https://youtu.be/-1pPcQhYOWo
+        - Recording: https://youtu.be/_SDNQxSIdOM
     2. [] TTS. Language Modelling approach
         - Author: Yevhenii
         - Recording:
