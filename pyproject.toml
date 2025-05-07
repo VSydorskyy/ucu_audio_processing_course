@@ -7,7 +7,8 @@ readme = "README.md"
 packages = [{include = "ucu_audio_processing_course"}]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+# In order to be conistent with TTS package (https://pypi.org/project/TTS/)
+python = ">=3.10,<3.12"
 jupyterlab = "^4.0.11"
 numpy = "^1.26.3"
 torch = "^2.1.2"
