@@ -125,17 +125,17 @@ jupyter lab --port 7766
         - Google Form: https://forms.gle/tR6xFUTQn11ucMme6
         - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_4/Lecture_4/whisper_from_scratch.ipynb
         - Deadline: 14.05.2025, 24:00 GMT +02:00
-5. [] TTS
+5. [x] TTS
     1. [x] TTS. Sequence-2-Sequence models
         - Author: Andrii Zhuravlov and Volodymyr
         - Recording: https://youtu.be/_SDNQxSIdOM
-    2. [] TTS. Language Modelling approach
+    2. [x] TTS. Language Modelling approach
         - Author: Yevhenii
-        - Recording:
-6. [] Speech 2 Speech
-    1. [] S2S. Diffusion model 
-        - Author: Yevhenii and Volodymyr
-        - Recording: 
+        - Recording: https://youtu.be/yglai2hKxfA
+    3. Homework
+        - Google Form: https://forms.gle/oFWT3a1ed4wRAV5j6
+        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_5/Lecture_2/llm_tts.ipynb
+        - Deadline: 19.05.2025, 24:00 GMT +02:00
 
 # Use Kaggle or Colab for computations
 
@@ -174,7 +174,7 @@ Raw table: https://docs.google.com/spreadsheets/d/1zpYV6K_BtvOUqX09dIwwgJLwhoPH0
 
 ```
 @misc{ucu_audio_processing_course_2025,
-  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Yurii Laba, Andrii Shevtsov, Ostap Viniavskyi, Yurii Yelisieiev, Yurii Paniv, Andrii Zhuravlov},
+  author = {Volodymyr Sydorskyi, Anton Bazdyrev, Oles Dobosevych, Yurii Laba, Andrii Shevtsov, Ostap Viniavskyi, Yurii Yelisieiev, Yurii Paniv, Andrii Zhuravlov, Yevhenii Azarov},
   title = {UCU Audio Processing Course 2025},
   year = {2025},
   publisher = {GitHub},
