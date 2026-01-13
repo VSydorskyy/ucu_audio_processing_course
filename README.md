@@ -65,77 +65,102 @@ jupyter lab --port 7766
 
 # Content 
 
-1. [x] Intro in Audio. Basic Audio Processing
-    1. [x] Intro in Audio ML. Digital wave representation. Spectral audio representation
+1. [x] Into to Pytorch. Basic Deep Learning Tasks
+    1. [x] Intro to Basic Pytroch. CNNs. Image Classification
+        - Author: Volodymyr (Ostap)
+        - Recording: 
+        - Audience: UCU
+        - Date: 19.01.2026
+    2. [x] Intro to Lightning. RNNs. Named Entity Recognition
+        - Author: Volodymyr (Anton)
+        - Recording:
+        - Audience: UCU
+        - Date: 26.01.2026
+    3. [x] Validation 
+        - Author: Volodymyr (Anton)
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 02.02.2026
+2. [x] Intro in Audio. Basic Audio Processing
+    1. [] Intro in Audio ML. Digital wave representation. Spectral audio representation
         - Author: Volodymyr
-        - Recording: https://youtu.be/qU3uiP2XSFg
-    2. [x] Pre-processing, Filtering, Clustering
-        - Author: Oles
-        - Recording: https://youtu.be/LnCWHg6hn5o
-    3. Homework
-        - Google Form: https://forms.gle/kW9gGSocLyGTWLah6
-        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_1/Lecture_2/Pre_processing_Filtering_Clustering.ipynb
-        - Deadline: 24.02.2025, 24:00 GMT +02:00
-2. [x] Into to Pytorch. Basic Deep Learning Tasks
-    1. [x] Validation 
-        - Author: Anton and Volodymyr
-        - Recording: https://youtu.be/HA4ZP3CH1UI
-    2. [x] Intro to Basic Pytroch. CNNs. Image Classification
-        - Author: Ostap
-        - Recording: https://youtu.be/meRa1qNjQJs
-    3. [x] Intro to Lightning. RNNs. Named Entity Recognition
-        - Author: Anton
-        - Recording: https://youtu.be/MG-dWWPDvQM
-    4. [x] Self Supervised Audio Representations
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 02.02.2026
+    2. [] Pre-processing, Filtering, Clustering
+        - Author: Volodymyr (Oles)
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 09.02.2026
+    3. [x] Self Supervised Audio Representations
         - Author: Yurii Yelisieiev 
-        - Recording: https://youtu.be/5NyYP8oNbV8
-    5. Homework
-        - Google Form: https://forms.gle/4WHJourwLs29ZKYU8
-        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_2/Lecture_4/Self_Supervised_Representations.ipynb
-        - Deadline: 07.04.2025, 24:00 GMT +02:00
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 16.02.2026
+    4. Homework
+        - Google Form: 
+        - Practical Task: 
+        - Deadline: 
 3. [x] Audio Classification and Diarization
     1. [x] Audio Classification model
         - Author: Volodymyr
-        - Recording: https://youtu.be/24Ee1LCDUNg
-    2. Competition Alert !!!
-        - Competition: https://www.kaggle.com/competitions/birdclef-2025/overview
-        - Points: Bronze zone - 20 points; Silver zone - 40 points; Gold zone - 80 points
-        - Deadline: 25.05.2025, 24:00 GMT +02:00
-    3. [x] Speaker diarization 
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 23.02.2026
+    3. [] Speaker diarization 
         - Author: Yurii Paniv
-        - Recording: https://youtu.be/9hHF91aZIOk
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 02.03.2026
     4. Homework
-        - Google Form: https://forms.gle/r6seb6MRH7a2d7GcA
-        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_3/Lecture_2/SpeakerDiarization.ipynb
-        - Deadline: 14.04.2025, 24:00 GMT +02:00
+        - Google Form: 
+        - Practical Task:
+        - Deadline: 
 4. [x] ASR
     1. [x] Introduction to Generative Models.
         - Author: Andrii Shevtsov
-        - Recording: https://youtu.be/5ZCKRZUpAa8
-    2. [x] Introduction to ASR
-        - Author: Oles
-        - Recording: https://youtu.be/MbvtrVjumYE
-    3. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
-        - Author: Yurii Laba and Volodymyr
-        - Recording: https://youtu.be/Z48gxBCel5c
-    4. [x] Introduction into Transformers. Whisper
-        - Author: Yurii Laba and Volodymyr
-        - Recording: https://youtu.be/przbTFFVXpY
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 09.03.2026
+    2. [] Introduction to ASR
+        - Author: Danil
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 16.03.2026
+    3. [] Deeper ASR overview. CTC loss and Encoder architecture for ASR
+        - Author: Yurii Laba
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 23.03.2026
+    4. [] Introduction into Transformers. Whisper
+        - Author: Danil
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 30.03.2026
     5. Homework
-        - Google Form: https://forms.gle/tR6xFUTQn11ucMme6
-        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_4/Lecture_4/whisper_from_scratch.ipynb
-        - Deadline: 14.05.2025, 24:00 GMT +02:00
+        - Google Form:
+        - Practical Task:
+        - Deadline: 
 5. [x] TTS
     1. [x] TTS. Sequence-2-Sequence models
-        - Author: Andrii Zhuravlov and Volodymyr
-        - Recording: https://youtu.be/_SDNQxSIdOM
-    2. [x] TTS. Language Modelling approach
         - Author: Yevhenii
-        - Recording: https://youtu.be/yglai2hKxfA
-    3. Homework
-        - Google Form: https://forms.gle/oFWT3a1ed4wRAV5j6
-        - Practical Task: Homework Section in https://github.com/VSydorskyy/ucu_audio_processing_course/blob/main/Module_5/Lecture_2/llm_tts.ipynb
-        - Deadline: 19.05.2025, 24:00 GMT +02:00
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 06.04.2026
+    2. [x] TTS. Language Modelling approach
+        - Author: Danil
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 13.04.2026
+    3. [] TTS. Language Modelling approach Part 2
+        - Author: Yevhenii
+        - Recording: 
+        - Audience: UCU + KPI
+        - Date: 20.04.2026
+    4. Homework
+        - Google Form:
+        - Practical Task: 
+        - Deadline: 
 
 # Use Kaggle or Colab for computations
 
