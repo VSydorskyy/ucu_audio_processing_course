@@ -107,12 +107,12 @@ jupyter lab --port 7766
         - Recording: 
         - Audience: UCU + KPI
         - Date: 23.02.2026
-    3. [] Speaker diarization 
+    2. [] Speaker diarization 
         - Author: Yurii Paniv
         - Recording: 
         - Audience: UCU + KPI
         - Date: 02.03.2026
-    4. Homework
+    3. Homework
         - Google Form: 
         - Practical Task:
         - Deadline: 
