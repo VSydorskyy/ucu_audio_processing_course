@@ -86,17 +86,17 @@ jupyter lab --port 7766
         - Author: Volodymyr
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 02.02.2026
+        - Date: 09.02.2026
     2. [] Pre-processing, Filtering, Clustering
         - Author: Volodymyr (Oles)
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 09.02.2026
+        - Date: 16.02.2026
     3. [x] Self Supervised Audio Representations
         - Author: Yurii Yelisieiev 
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 16.02.2026
+        - Date: 23.02.2026
     4. Homework
         - Google Form: 
         - Practical Task: 
@@ -106,12 +106,12 @@ jupyter lab --port 7766
         - Author: Volodymyr
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 23.02.2026
+        - Date: 02.03.2026
     2. [] Speaker diarization 
         - Author: Yurii Paniv
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 02.03.2026
+        - Date: 09.03.2026
     3. Homework
         - Google Form: 
         - Practical Task:
@@ -121,22 +121,22 @@ jupyter lab --port 7766
         - Author: Andrii Shevtsov
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 09.03.2026
+        - Date: 16.03.2026
     2. [] Introduction to ASR
         - Author: Danil
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 16.03.2026
+        - Date: 23.03.2026
     3. [] Deeper ASR overview. CTC loss and Encoder architecture for ASR
         - Author: Yurii Laba
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 23.03.2026
+        - Date: 30.03.2026
     4. [] Introduction into Transformers. Whisper
         - Author: Danil
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 30.03.2026
+        - Date: 06.04.2026
     5. Homework
         - Google Form:
         - Practical Task:
@@ -146,17 +146,17 @@ jupyter lab --port 7766
         - Author: Yevhenii
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 06.04.2026
+        - Date: 13.04.2026
     2. [x] TTS. Language Modelling approach
         - Author: Danil
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 13.04.2026
-    3. [] TTS. Language Modelling approach Part 2
+        - Date: 20.04.2026
+    3. [] TTS. Diffusion Approach
         - Author: Yevhenii
         - Recording: 
         - Audience: UCU + KPI
-        - Date: 20.04.2026
+        - Date: 27.04.2026
     4. Homework
         - Google Form:
         - Practical Task: 
