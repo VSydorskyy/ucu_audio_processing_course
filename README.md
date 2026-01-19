@@ -68,7 +68,7 @@ jupyter lab --port 7766
 1. [x] Into to Pytorch. Basic Deep Learning Tasks
     1. [x] Intro to Basic Pytroch. CNNs. Image Classification
         - Author: Volodymyr (Ostap)
-        - Recording: 
+        - Recording: https://youtu.be/D3kd1bzvOEM
         - Audience: UCU
         - Date: 19.01.2026
     2. [x] Intro to Lightning. RNNs. Named Entity Recognition
