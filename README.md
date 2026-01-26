@@ -72,8 +72,8 @@ jupyter lab --port 7766
         - Audience: UCU
         - Date: 19.01.2026
     2. [x] Intro to Lightning. RNNs. Named Entity Recognition
-        - Author: Volodymyr (Anton)
-        - Recording:
+        - Author: Volodymyr (Volodymyr + Anton)
+        - Recording: https://youtu.be/L98vDBEDNPQ
         - Audience: UCU
         - Date: 26.01.2026
     3. [x] Validation 

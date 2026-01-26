@@ -52,6 +52,11 @@ unidecode = "^1.4.0"
 onnxruntime-gpu = "^1.21.1"
 requests = "^2.32.3"
 pydot = "^4.0.1"
+torchtext = "^0.18.0"
+gensim = "^4.4.0"
+spacy = "^3.8.11"
+evaluate = "^0.4.6"
+wordcloud = "^1.9.6"
 
 
 [build-system]
