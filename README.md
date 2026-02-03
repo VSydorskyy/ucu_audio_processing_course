@@ -78,7 +78,7 @@ jupyter lab --port 7766
         - Date: 26.01.2026
     3. [x] Validation 
         - Author: Volodymyr (Anton)
-        - Recording: 
+        - Recording: https://youtu.be/_541B06AH-Y
         - Audience: UCU + KPI
         - Date: 02.02.2026
 2. [x] Intro in Audio. Basic Audio Processing
