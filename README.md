@@ -161,6 +161,7 @@ jupyter lab --port 7766
         - Google Form:
         - Practical Task: 
         - Deadline: 
+6. [x] Project
 
 # Use Kaggle or Colab for computations
 
