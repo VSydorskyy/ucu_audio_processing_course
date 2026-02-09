@@ -82,9 +82,9 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 02.02.2026
 2. [x] Intro in Audio. Basic Audio Processing
-    1. [] Intro in Audio ML. Digital wave representation. Spectral audio representation
-        - Author: Volodymyr
-        - Recording: 
+    1. [x] Intro in Audio and Audio ML. Digital wave representation. Spectral audio representation
+        - Author: Anton Ankudinov and Volodymyr
+        - Recording: https://youtu.be/atCFO2y2jcU
         - Audience: UCU + KPI
         - Date: 09.02.2026
     2. [] Pre-processing, Filtering, Clustering
