@@ -98,9 +98,9 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 23.02.2026
     4. Homework
-        - Google Form: 
-        - Practical Task: 
-        - Deadline: 
+        - Google Form: https://forms.gle/Fm1FskfWbr5cSXaH9 
+        - Practical Task: Module_2/Аудіо МЛ. Лаброраторна №1.pdf
+        - Deadline: 16.03.2026
 3. [x] Audio Classification and Diarization
     1. [x] Audio Classification model
         - Author: Volodymyr
