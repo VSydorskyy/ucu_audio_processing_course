@@ -104,7 +104,7 @@ jupyter lab --port 7766
 3. [x] Audio Classification and Diarization
     1. [x] Audio Classification model
         - Author: Volodymyr
-        - Recording: 
+        - Recording: https://youtu.be/B7g3lVaDhrw
         - Audience: UCU + KPI
         - Date: 02.03.2026
     2. [] Speaker diarization 
