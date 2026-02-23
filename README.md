@@ -89,7 +89,7 @@ jupyter lab --port 7766
         - Date: 09.02.2026
     2. [x] Filtering, Audio Normalization
         - Author: Anton Ankudinov
-        - Recording: 
+        - Recording: https://youtu.be/zJ4Z1p5F1qQ
         - Audience: UCU + KPI
         - Date: 16.02.2026
     3. [x] Self Supervised Audio Representations
