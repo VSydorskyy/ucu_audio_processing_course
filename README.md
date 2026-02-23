@@ -87,8 +87,8 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/atCFO2y2jcU
         - Audience: UCU + KPI
         - Date: 09.02.2026
-    2. [] Pre-processing, Filtering, Clustering
-        - Author: Volodymyr (Oles)
+    2. [x] Filtering, Audio Normalization
+        - Author: Anton Ankudinov
         - Recording: 
         - Audience: UCU + KPI
         - Date: 16.02.2026
