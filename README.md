@@ -94,7 +94,7 @@ jupyter lab --port 7766
         - Date: 16.02.2026
     3. [x] Self Supervised Audio Representations
         - Author: Yurii Yelisieiev 
-        - Recording: 
+        - Recording: https://youtu.be/tnpVbaDUjNw
         - Audience: UCU + KPI
         - Date: 23.02.2026
     4. Homework
