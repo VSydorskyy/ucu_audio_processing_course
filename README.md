@@ -107,9 +107,9 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/B7g3lVaDhrw
         - Audience: UCU + KPI
         - Date: 02.03.2026
-    2. [] Speaker diarization 
-        - Author: Yurii Paniv
-        - Recording: 
+    2. [x] Speaker diarization 
+        - Author: Anastasiia Senyk
+        - Recording: https://youtu.be/nHNelFM0dRw
         - Audience: UCU + KPI
         - Date: 09.03.2026
     3. Homework
