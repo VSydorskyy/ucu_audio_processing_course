@@ -113,9 +113,9 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 09.03.2026
     3. Homework
-        - Google Form: 
-        - Practical Task:
-        - Deadline: 
+        - Google Form: https://forms.gle/fL6XrjAaZg9BUUpt7
+        - Practical Task: Module_3/Аудіо МЛ. Лаброраторна №2.pdf
+        - Deadline: 06.04.2026
 4. [x] ASR
     1. [x] Introduction to Generative Models.
         - Author: Andrii Shevtsov
@@ -138,9 +138,9 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 06.04.2026
     5. Homework
-        - Google Form:
+        - Google Form: 
         - Practical Task:
-        - Deadline: 
+        - Deadline:
 5. [x] TTS
     1. [x] TTS. Sequence-2-Sequence models
         - Author: Yevhenii
