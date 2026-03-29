@@ -122,9 +122,9 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/i_ZmQRPZBO4 
         - Audience: UCU + KPI
         - Date: 16.03.2026
-    2. [] Introduction to ASR
-        - Author: Danil
-        - Recording: 
+    2. [x] Introduction to ASR
+        - Author: Danil Brovko
+        - Recording: https://youtu.be/f1xcRWTULog 
         - Audience: UCU + KPI
         - Date: 23.03.2026
     3. [] Deeper ASR overview. CTC loss and Encoder architecture for ASR
