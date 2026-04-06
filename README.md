@@ -127,9 +127,9 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/f1xcRWTULog 
         - Audience: UCU + KPI
         - Date: 23.03.2026
-    3. [] Deeper ASR overview. CTC loss and Encoder architecture for ASR
-        - Author: Yurii Laba
-        - Recording: 
+    3. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
+        - Author: Yurii Laba (Volodymyr) 
+        - Recording: https://youtu.be/BGke6WhlHp4
         - Audience: UCU + KPI
         - Date: 30.03.2026
     4. [] Introduction into Transformers. Whisper
