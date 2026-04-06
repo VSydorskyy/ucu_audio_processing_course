@@ -132,9 +132,9 @@ jupyter lab --port 7766
         - Recording: https://youtu.be/BGke6WhlHp4
         - Audience: UCU + KPI
         - Date: 30.03.2026
-    4. [] Introduction into Transformers. Whisper
+    4. [x] Introduction into Transformers. Whisper
         - Author: Danil
-        - Recording: 
+        - Recording: https://youtu.be/AkqhL_TL0Kc
         - Audience: UCU + KPI
         - Date: 06.04.2026
     5. Homework
