@@ -138,9 +138,9 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 06.04.2026
     5. Homework
-        - Google Form: 
-        - Practical Task:
-        - Deadline:
+        - Google Form: https://forms.gle/P4FXWVuhfATqrWWR8
+        - Practical Task: Module_4/Аудіо МЛ. Лаброраторна №3.pdf
+        - Deadline: 23.04.2026
 5. [x] TTS
     1. [x] TTS. Sequence-2-Sequence models
         - Author: Yevhenii
