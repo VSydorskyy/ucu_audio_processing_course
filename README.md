@@ -144,7 +144,7 @@ jupyter lab --port 7766
 5. [x] TTS
     1. [x] TTS. Sequence-2-Sequence models
         - Author: Yevhenii
-        - Recording: 
+        - Recording: https://youtu.be/-zYG6LEHg0A 
         - Audience: UCU + KPI
         - Date: 13.04.2026
     2. [x] TTS. Language Modelling approach
