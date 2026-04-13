@@ -1,0 +1,3 @@
+[submodule "Module_5/Lecture_1/tacotron2-from-scratch"]
+	path = Module_5/Lecture_1/tacotron2-from-scratch
+	url = git@github.com:shelestvitru/tacotron2-from-scratch.git
