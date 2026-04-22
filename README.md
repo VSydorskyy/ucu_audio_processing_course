@@ -133,7 +133,7 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 30.03.2026
     4. [x] Introduction into Transformers. Whisper
-        - Author: Danil
+        - Author: Danil Brovko
         - Recording: https://youtu.be/AkqhL_TL0Kc
         - Audience: UCU + KPI
         - Date: 06.04.2026
@@ -148,7 +148,7 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 13.04.2026
     2. [x] TTS. Language Modelling approach
-        - Author: Danil
+        - Author: Danil Brovko (Yevhenii)
         - Recording: 
         - Audience: UCU + KPI
         - Date: 20.04.2026
@@ -158,9 +158,9 @@ jupyter lab --port 7766
         - Audience: UCU + KPI
         - Date: 27.04.2026
     4. Homework
-        - Google Form:
-        - Practical Task: 
-        - Deadline: 
+        - Google Form: https://forms.gle/ub7hEJRgr4UBxY2W9
+        - Practical Task: Module_5/Аудіо МЛ. Лаброраторна №4.pdf
+        - Deadline: 05.05.2026
 6. [x] Project
 
 # Use Kaggle or Colab for computations
