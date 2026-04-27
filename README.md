@@ -152,7 +152,7 @@ jupyter lab --port 7766
         - Recording: 
         - Audience: UCU + KPI
         - Date: 20.04.2026
-    3. [] TTS. Diffusion Approach
+    3. [x] TTS. Diffusion Approach
         - Author: Yevhenii
         - Recording: 
         - Audience: UCU + KPI
