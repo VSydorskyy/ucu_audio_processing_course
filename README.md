@@ -154,7 +154,7 @@ jupyter lab --port 7766
         - Date: 20.04.2026
     3. [x] TTS. Diffusion Approach
         - Author: Yevhenii
-        - Recording: 
+        - Recording: https://youtu.be/Efdv90b0zEI
         - Audience: UCU + KPI
         - Date: 27.04.2026
     4. Homework
