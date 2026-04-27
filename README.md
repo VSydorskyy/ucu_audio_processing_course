@@ -149,7 +149,7 @@ jupyter lab --port 7766
         - Date: 13.04.2026
     2. [x] TTS. Language Modelling approach
         - Author: Danil Brovko (Yevhenii)
-        - Recording: 
+        - Recording: https://youtu.be/Gin-C_s2F5E
         - Audience: UCU + KPI
         - Date: 20.04.2026
     3. [] TTS. Diffusion Approach
