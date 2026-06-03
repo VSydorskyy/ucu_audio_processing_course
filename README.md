@@ -69,98 +69,68 @@ jupyter lab --port 7766
     1. [x] Intro to Basic Pytroch. CNNs. Image Classification
         - Author: Volodymyr (Ostap)
         - Recording: https://youtu.be/D3kd1bzvOEM
-        - Audience: UCU
-        - Date: 19.01.2026
     2. [x] Intro to Lightning. RNNs. Named Entity Recognition
         - Author: Volodymyr (Volodymyr + Anton)
         - Recording: https://youtu.be/L98vDBEDNPQ
-        - Audience: UCU
-        - Date: 26.01.2026
     3. [x] Validation 
         - Author: Volodymyr (Anton)
         - Recording: https://youtu.be/_541B06AH-Y
-        - Audience: UCU + KPI
-        - Date: 02.02.2026
 2. [x] Intro in Audio. Basic Audio Processing
     1. [x] Intro in Audio and Audio ML. Digital wave representation. Spectral audio representation
         - Author: Anton Ankudinov and Volodymyr
         - Recording: https://youtu.be/atCFO2y2jcU
-        - Audience: UCU + KPI
-        - Date: 09.02.2026
     2. [x] Filtering, Audio Normalization
         - Author: Anton Ankudinov
         - Recording: https://youtu.be/zJ4Z1p5F1qQ
-        - Audience: UCU + KPI
-        - Date: 16.02.2026
     3. [x] Self Supervised Audio Representations
         - Author: Yurii Yelisieiev 
         - Recording: https://youtu.be/tnpVbaDUjNw
-        - Audience: UCU + KPI
-        - Date: 23.02.2026
     4. Homework
-        - Google Form: https://forms.gle/Fm1FskfWbr5cSXaH9 
-        - Practical Task: Module_2/Аудіо МЛ. Лаброраторна №1.pdf
-        - Deadline: 16.03.2026
+        - Google Form: https://forms.gle/2nBFjH56BCrcDzX79 
+        - Practical Task: Module_2/AI450 Audio Deep Learning - Assignment #1.pdf
+        - Deadline: 14.06.2026
 3. [x] Audio Classification and Diarization
     1. [x] Audio Classification model
         - Author: Volodymyr
         - Recording: https://youtu.be/B7g3lVaDhrw
-        - Audience: UCU + KPI
-        - Date: 02.03.2026
     2. [x] Speaker diarization 
         - Author: Anastasiia Senyk
         - Recording: https://youtu.be/nHNelFM0dRw
-        - Audience: UCU + KPI
-        - Date: 09.03.2026
     3. Homework
-        - Google Form: https://forms.gle/fL6XrjAaZg9BUUpt7
-        - Practical Task: Module_3/Аудіо МЛ. Лаброраторна №2.pdf
-        - Deadline: 06.04.2026
+        - Google Form: 
+        - Practical Task: 
+        - Deadline: 
 4. [x] ASR
     1. [x] Introduction to Generative Models.
         - Author: Andrii Shevtsov
         - Recording: https://youtu.be/i_ZmQRPZBO4 
-        - Audience: UCU + KPI
-        - Date: 16.03.2026
     2. [x] Introduction to ASR
         - Author: Danil Brovko
         - Recording: https://youtu.be/f1xcRWTULog 
-        - Audience: UCU + KPI
-        - Date: 23.03.2026
     3. [x] Deeper ASR overview. CTC loss and Encoder architecture for ASR
         - Author: Yurii Laba (Volodymyr) 
         - Recording: https://youtu.be/BGke6WhlHp4
-        - Audience: UCU + KPI
-        - Date: 30.03.2026
     4. [x] Introduction into Transformers. Whisper
         - Author: Danil Brovko
         - Recording: https://youtu.be/AkqhL_TL0Kc
-        - Audience: UCU + KPI
-        - Date: 06.04.2026
     5. Homework
-        - Google Form: https://forms.gle/P4FXWVuhfATqrWWR8
-        - Practical Task: Module_4/Аудіо МЛ. Лаброраторна №3.pdf
-        - Deadline: 23.04.2026
+        - Google Form: 
+        - Practical Task: 
+        - Deadline: 
 5. [x] TTS
     1. [x] TTS. Sequence-2-Sequence models
         - Author: Yevhenii
         - Recording: https://youtu.be/-zYG6LEHg0A 
-        - Audience: UCU + KPI
-        - Date: 13.04.2026
     2. [x] TTS. Language Modelling approach
         - Author: Danil Brovko (Yevhenii)
         - Recording: https://youtu.be/Gin-C_s2F5E
-        - Audience: UCU + KPI
-        - Date: 20.04.2026
     3. [x] TTS. Diffusion Approach
         - Author: Yevhenii
         - Recording: https://youtu.be/Efdv90b0zEI
-        - Audience: UCU + KPI
-        - Date: 27.04.2026
     4. Homework
-        - Google Form: https://forms.gle/ub7hEJRgr4UBxY2W9
-        - Practical Task: Module_5/Аудіо МЛ. Лаброраторна №4.pdf
-        - Deadline: 05.05.2026
+        - Google Form: 
+        - Practical Task: 
+        - Deadline:
 6. [x] Project
 
 # Use Kaggle or Colab for computations
