@@ -97,9 +97,9 @@ jupyter lab --port 7766
         - Author: Anastasiia Senyk
         - Recording: https://youtu.be/nHNelFM0dRw
     3. Homework
-        - Google Form: 
-        - Practical Task: 
-        - Deadline: 
+        - Google Form: https://forms.gle/o3z2kxHUfiXSZY3C9 
+        - Practical Task: Module_3/AI450 Audio Deep Learning - Assignment #2.pdf
+        - Deadline: 21.06.2026
 4. [x] ASR
     1. [x] Introduction to Generative Models.
         - Author: Andrii Shevtsov
