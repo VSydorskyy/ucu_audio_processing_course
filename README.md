@@ -114,9 +114,9 @@ jupyter lab --port 7766
         - Author: Danil Brovko
         - Recording: https://youtu.be/AkqhL_TL0Kc
     5. Homework
-        - Google Form: 
-        - Practical Task: 
-        - Deadline: 
+        - Google Form: https://forms.gle/zvtsJJYWSXbRUZc97
+        - Practical Task: Module_4/AI450 Audio Deep Learning - Assignment #3.pdf
+        - Deadline: 05.07.2026
 5. [x] TTS
     1. [x] TTS. Sequence-2-Sequence models
         - Author: Yevhenii
@@ -128,9 +128,9 @@ jupyter lab --port 7766
         - Author: Yevhenii
         - Recording: https://youtu.be/Efdv90b0zEI
     4. Homework
-        - Google Form: 
-        - Practical Task: 
-        - Deadline:
+        - Google Form: https://forms.gle/czeSr99PZYDv3j327 
+        - Practical Task: Module_5/Audio Deep Learning - Assignment #4.pdf
+        - Deadline: 15.07.2026
 6. [x] Project
 
 # Use Kaggle or Colab for computations
