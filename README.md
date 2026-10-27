@@ -30,6 +30,7 @@ In order to update or gain this knowledge you can use list of next tutorials and
 1. Install Poetry using [Poetry full guide](https://python-poetry.org/docs/#installation).
     > **Important**: Check if it is working using `poetry --version`.
 2. Run command to keep your `.venv` folder right in your project: `poetry config virtualenvs.in-project true`
+    > **Important**: Python `>=3.10,<3.12` is required. If your default Python is newer, point Poetry to a compatible interpreter, e.g. `pyenv install 3.11 && pyenv local 3.11` (the repo ships `.python-version`) and then `poetry env use 3.11`.
 3. `poetry shell`.
     > **Important**: If you have `conda` and 2 environments were activated: `conda deactivate`.
     

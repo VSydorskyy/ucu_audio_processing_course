@@ -9,3 +9,6 @@ Module_2/Lecture_1/logdirs
 Module_2/Lecture_3/AMI-diarization-setup
 
 Module_5/Lecture_2/data/
+
+.venv
+black_sea_ai_lecture/logdirs
